@@ -1,5 +1,10 @@
-data/
+# MacOS
+.DS_Store
+
 */**/__pycache__
 */**/venv
+
+# pre-trained model
 **/dialogue_model/
+
 tensorboard_summary
