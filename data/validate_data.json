@@ -5,7 +5,7 @@
     ],
     [
         "Patient:Nervous about coronavirus. I am 26 years old and have high blood pressure. I am curious chances of me dieing if I contract the virus.Nervous about coronavirus. I am 26 years old and have high blood pressure. I am curious chances of me dieing if I contract the virus.",
-        "Doctor:In brief:   Unknown but low   Based on current data it is low, likely less than 1-2%.   However just because you are young doesn’t mean you cannot end up really sick. Take care of yourself. Social distancing, wash you hands, etc  Would you like to video or text chat with me?"
+        "Doctor:Unknown but low   Based on current data it is low, likely less than 1-2%.   However just because you are young doesn’t mean you cannot end up really sick. Take care of yourself. Social distancing, wash you hands, etc  Would you like to video or text chat with me?"
     ],
     [
         "Patient:Sick for past week. Doctor prescribed meds. Not feeling better. Symptoms are shortness of breath, difficulty breathing, barking cough, mild headache, body ache. Should I consider getting tested for Covid 19.Sick for past week. Doctor prescribed meds. Not feeling better. Symptoms are shortness of breath, difficulty breathing, barking cough, mild headache, body ache. Should I consider getting tested for Covid 19.",
@@ -17,7 +17,7 @@
     ],
     [
         "Patient:I think I have COVID-19. I have difficulty breathing (shortness of breath), tightness in chest, sore throat and light fever. Symptoms have been progressing and getting stronger over the last 4 days. I had diarrhea two days ago.I think I have COVID-19. I have difficulty breathing (shortness of breath), tightness in chest, sore throat and light fever. Symptoms have been progressing and getting stronger over the last 4 days. I had diarrhea two days ago.",
-        "Doctor:In brief:   If bad, needs ER   COVID-19 pandemic at this time, so a doctor on video may consult by video instead of requiring an in-person visit.   Flu-like symptoms can be from a strep throat infection, a cold or influenza, or from some other cause like COVID-19. Usually, a person calls the doctor if the symptoms are bothersome, serious, recurrent, or persistent. COVID-19 testing depends on local availability. (3/22/20)  Would you like to video or text chat with me?"
+        "Doctor:If bad, needs ER   COVID-19 pandemic at this time, so a doctor on video may consult by video instead of requiring an in-person visit.   Flu-like symptoms can be from a strep throat infection, a cold or influenza, or from some other cause like COVID-19. Usually, a person calls the doctor if the symptoms are bothersome, serious, recurrent, or persistent. COVID-19 testing depends on local availability. (3/22/20)  Would you like to video or text chat with me?"
     ],
     [
         "Patient:I am a pregnant pharmacist working in a government hospital. I am in my third trimester. Should I take leave until my maternity leave starts due to the coronavirus pandemic? Government has not made any recommendations for pregnant healthcare workers。I am a pregnant pharmacist working in a government hospital. I am in my third trimester. Should I take leave until my maternity leave starts due to the coronavirus pandemic? Government has not made any recommendations for pregnant healthcare workers。",
@@ -25,11 +25,11 @@
     ],
     [
         "Patient:I am the main member of discovery, I want to complete a health covid assessment for my husband? Please let me know how to do so?I am the main member of discovery, I want to complete a health covid assessment for my husband? Please let me know how to do so?",
-        "Doctor:In brief:   Call Discovery   You'll need to call Discovery.  Would you like to video or text chat with me?"
+        "Doctor:Call Discovery   You'll need to call Discovery.  Would you like to video or text chat with me?"
     ],
     [
         "Patient:Hi There. I was at a festival over this past weekend and there has been a report of someone testing positive now. Is it a good idea to go for a test and/or self isolate ? Is national travel by car ok ?Hi There. I was at a festival over this past weekend and there has been a report of someone testing positive now. Is it a good idea to go for a test and/or self isolate ? Is national travel by car ok ?",
-        "Doctor:In brief:   Self-quarantine!    Enter self-quarantine then call your health care provider to get instructions regarding testing, self-quarantine and possible hospitalization then follow through!  Would you like to video or text chat with me?"
+        "Doctor:Self-quarantine!    Enter self-quarantine then call your health care provider to get instructions regarding testing, self-quarantine and possible hospitalization then follow through!  Would you like to video or text chat with me?"
     ],
     [
         "Patient:Hi. My son is 2 years old. Last week he fell ill for a day or two. He kept vomiting and had a day of diarree. However since last night he is couching constantly with plegm and runny nose, and loss of appetite. Do I need to test him for COVID-19?Hi. My son is 2 years old. Last week he fell ill for a day or two. He kept vomiting and had a day of diarree. However since last night he is couching constantly with plegm and runny nose, and loss of appetite. Do I need to test him for COVID-19?",
@@ -57,7 +57,7 @@
     ],
     [
         "Patient:I have a sore throat, slight cough, tiredness. Should I get tested fro Covid 19?I have a sore throat, slight cough, tiredness. Should I get tested fro Covid 19?",
-        "Doctor:In brief:   Maybe. Do video w/Dr   Throat pain can be from a strep throat infection (antibiotics needed), a cold or influenza (antibiotics usually not used), or from some other cause such as allergies or irritants.   Usually, a person sees the doctor (call first) if the sore throat is bothersome, recurrent, or doesn't go away quickly. COVID-19 infections tend to have cough, whereas strep usually lacks cough but has more throat pain.  Would you like to video or text chat with me?"
+        "Doctor:Maybe. Do video w/Dr   Throat pain can be from a strep throat infection (antibiotics needed), a cold or influenza (antibiotics usually not used), or from some other cause such as allergies or irritants.   Usually, a person sees the doctor (call first) if the sore throat is bothersome, recurrent, or doesn't go away quickly. COVID-19 infections tend to have cough, whereas strep usually lacks cough but has more throat pain.  Would you like to video or text chat with me?"
     ],
     [
         "Patient:Hi, I arrived from the Netherlands on Monday morning. No symptoms but have been around my helper. Should we get tested?Hi, I arrived from the Netherlands on Monday morning. No symptoms but have been around my helper. Should we get tested?",
@@ -69,15 +69,15 @@
     ],
     [
         "Patient:Hi there, I was recently in close contact with someone who travelled overseas. The person has become ill but has not communicated whether or not they’ve been tested. Should I go and get tested for covid19?Hi there, I was recently in close contact with someone who travelled overseas. The person has become ill but has not communicated whether or not they’ve been tested. Should I go and get tested for covid19?",
-        "Doctor:In brief:   Test   Since there is a risk for coronavirus, please stay home, rest and drink fluids.   Monitor for symptoms including fever, dry cough and/or shortness of breath. Avoid contact with others and consider testing. The symptoms of COVID 19 may be very mild. Travel is one risk factor for acquiring the disease.  Would you like to video or text chat with me?"
+        "Doctor:Test   Since there is a risk for coronavirus, please stay home, rest and drink fluids.   Monitor for symptoms including fever, dry cough and/or shortness of breath. Avoid contact with others and consider testing. The symptoms of COVID 19 may be very mild. Travel is one risk factor for acquiring the disease.  Would you like to video or text chat with me?"
     ],
     [
         "Patient:Hi! I’ve had a cold since 13 March.  I have since started coughing and just don’t seem to be recovering. One day I will be feeling fine and the next day back to feeling terrible. Lots of tight phlegm and very sore throat.  ?Hi! I’ve had a cold since 13 March.  I have since started coughing and just don’t seem to be recovering. One day I will be feeling fine and the next day back to feeling terrible. Lots of tight phlegm and very sore throat.  ?",
-        "Doctor:In brief:   Too soon to recover   On aveage, viral respiratory illnesses may take 2-3 weeks for full recovery and severe cases may take 4-6 weeks.  If your symptoms worsen, you should contact your health care provider to inquire regarding Corona virus testing or quarantine.  Would you like to video or text chat with me?"
+        "Doctor:Too soon to recover   On aveage, viral respiratory illnesses may take 2-3 weeks for full recovery and severe cases may take 4-6 weeks.  If your symptoms worsen, you should contact your health care provider to inquire regarding Corona virus testing or quarantine.  Would you like to video or text chat with me?"
     ],
     [
         "Patient:Hi Dr.  my whole body feels sore as well as my neck.  My brain feels loose in my head and have headaches?Hi Dr.  my whole body feels sore as well as my neck.  My brain feels loose in my head and have headaches?",
-        "Doctor:In brief:   Viral systemic infec   Sounds like it could be systemic infection, like Influenza or Corona viruses.  Please contact the NICD for screening to see if you have to get tested.Public Hotline:+27 800029999; +27 800111132; +27 82 883 9920.Only use Paracetamol for pain, if not allergic to it.  Would you like to video or text chat with me?"
+        "Doctor:Viral systemic infec   Sounds like it could be systemic infection, like Influenza or Corona viruses.  Please contact the NICD for screening to see if you have to get tested.Public Hotline:+27 800029999; +27 800111132; +27 82 883 9920.Only use Paracetamol for pain, if not allergic to it.  Would you like to video or text chat with me?"
     ],
     [
         "Patient:I am an asthmatic but rarely need my inhaler and haven’t had an attack in decades however with Covid 19 I’d like to put in place some measures in case the health services get overwhelmed. What drugs can I take if inhalers don’t work?I am an asthmatic but rarely need my inhaler and haven’t had an attack in decades however with Covid 19 I’d like to put in place some measures in case the health services get overwhelmed. What drugs can I take if inhalers don’t work?",
@@ -85,7 +85,7 @@
     ],
     [
         "Patient:Will I be covered if I get Corona 19 with my medival aid?Will I be covered if I get Corona 19 with my medival aid?",
-        "Doctor:In brief:   Probably...   ... but we here on this forum answer general medical questions, not particulars of individual medical coverage.   Call Medival aid to know for sure.  Would you like to video or text chat with me?"
+        "Doctor:Probably...   ... but we here on this forum answer general medical questions, not particulars of individual medical coverage.   Call Medival aid to know for sure.  Would you like to video or text chat with me?"
     ],
     [
         "Patient:I have travelled to HK in the past week and returned to South Africa on Tuesday, I have had no symptoms however today this is what I am experiencing. I would like to get tested for Covid19?I have travelled to HK in the past week and returned to South Africa on Tuesday, I have had no symptoms however today this is what I am experiencing. I would like to get tested for Covid19?",
@@ -93,11 +93,11 @@
     ],
     [
         "Patient:Can wheezing and some difficulty breathing be symptoms of corona virus? I don’t feel anything else so far and I’ve only felt it a few hours。Can wheezing and some difficulty breathing be symptoms of corona virus? I don’t feel anything else so far and I’ve only felt it a few hours。",
-        "Doctor:In brief:   Yes:   Not wheezing but difficulty of breathing is a symptom of the corona virus infection but it is not the common one.   It can be seen sometimes. The common symptoms are fever and cough mostly dry cough. The wheezing could be due to asthma or allergies in general. Since covid 19 can be seen even without any symptoms i suggest you to get in touch with your doctor for advise and follow up with you.  Would you like to video or text chat with me?"
+        "Doctor:Yes:   Not wheezing but difficulty of breathing is a symptom of the corona virus infection but it is not the common one.   It can be seen sometimes. The common symptoms are fever and cough mostly dry cough. The wheezing could be due to asthma or allergies in general. Since covid 19 can be seen even without any symptoms i suggest you to get in touch with your doctor for advise and follow up with you.  Would you like to video or text chat with me?"
     ],
     [
         "Patient:Hi Where in Cape Town can you get tested for covid19?Hi Where in Cape Town can you get tested for covid19?",
-        "Doctor:In brief:   Covid 19 tests   You can be tested either at any of the private labs or at selected government clinics.   You need to meet the criteria for testing before it is done.  Would you like to video or text chat with me?"
+        "Doctor:Covid 19 tests   You can be tested either at any of the private labs or at selected government clinics.   You need to meet the criteria for testing before it is done.  Would you like to video or text chat with me?"
     ],
     [
         "Patient:Body aching all of a sudden, head heavy and paining, sneezing, somewhat fever since yesterday.Body aching all of a sudden, head heavy and paining, sneezing, somewhat fever since yesterday.",
@@ -105,15 +105,15 @@
     ],
     [
         "Patient:I need to check if I have COVID-19?I need to check if I have COVID-19?",
-        "Doctor:In brief:   Call a doctor   Most places require a doctor to order this, but check into your local healthcare services to see if there is way for you to be tested without that, good luck.   There are criteria in most places to qualify for testing, so look into that to see if you qualify, ask your doctor...  Would you like to video or text chat with me?"
+        "Doctor:Call a doctor   Most places require a doctor to order this, but check into your local healthcare services to see if there is way for you to be tested without that, good luck.   There are criteria in most places to qualify for testing, so look into that to see if you qualify, ask your doctor...  Would you like to video or text chat with me?"
     ],
     [
         "Patient:I try to control my blood sugars as best I can, but it’s so difficult at times. I’m so scared that because of this, I will die or be seriously ill if I get the virus. I am simply terrified. Please help.I try to control my blood sugars as best I can, but it’s so difficult at times. I’m so scared that because of this, I will die or be seriously ill if I get the virus. I am simply terrified. Please help.",
-        "Doctor:In brief:   Anxiety   Your anxiety is overall justified, given massive social tension mounted by the pandemic.   Depending on local resources and through your doc's office, you may benefit from counseling from a clinical psychologist via telemedicine in order to avoid exposure during lockdown. Use this time to connect to your loved ones remotely ( Skype, phone, etc) and talk about your worries.  Would you like to video or text chat with me?"
+        "Doctor:Anxiety   Your anxiety is overall justified, given massive social tension mounted by the pandemic.   Depending on local resources and through your doc's office, you may benefit from counseling from a clinical psychologist via telemedicine in order to avoid exposure during lockdown. Use this time to connect to your loved ones remotely ( Skype, phone, etc) and talk about your worries.  Would you like to video or text chat with me?"
     ],
     [
         "Patient:I suspect I may have contracted covid 19. I have a sharp pain in my chest as well.I suspect I may have contracted covid 19. I have a sharp pain in my chest as well.",
-        "Doctor:In brief:   Urgent Care!    You must go to an Urgent Care Center or Emergency Room as soon as possible to have an exam at which time lab tests & a chest X-ray should be ordered to help determine your diagnosis.   The sooner you are properly evaluated & treated the better! I wish you well with your health!   Would you like to video or text chat with me?"
+        "Doctor:Urgent Care!    You must go to an Urgent Care Center or Emergency Room as soon as possible to have an exam at which time lab tests & a chest X-ray should be ordered to help determine your diagnosis.   The sooner you are properly evaluated & treated the better! I wish you well with your health!   Would you like to video or text chat with me?"
     ],
     [
         "Patient:I’m so scared of the coronavirus with my diabetes, that I’m wondering if my wife should not work in her GP practice? It’s putting us both at major risk isn’t it?I’m so scared of the coronavirus with my diabetes, that I’m wondering if my wife should not work in her GP practice? It’s putting us both at major risk isn’t it?",
@@ -121,11 +121,11 @@
     ],
     [
         "Patient:I’m showing signs of flu and shortness of breath over the last week. I just found out this morning that I was exposed to someone who tested positive. I need advise on how to get tested and treated (if required), beyond just self quarantining.I’m showing signs of flu and shortness of breath over the last week. I just found out this morning that I was exposed to someone who tested positive. I need advise on how to get tested and treated (if required), beyond just self quarantining.",
-        "Doctor:In brief:   Call a doctor    You may need a doctor’s order ASAP if you’ve been exposed and are symptomatic, to get tested, so call to get that order, and when you go to get tested, please try to place a mask on your face to protect others if you can  Would you like to video or text chat with me?"
+        "Doctor:Call a doctor    You may need a doctor’s order ASAP if you’ve been exposed and are symptomatic, to get tested, so call to get that order, and when you go to get tested, please try to place a mask on your face to protect others if you can  Would you like to video or text chat with me?"
     ],
     [
         "Patient:I have travelled in the last 14 days was in Cairo, Sharm El Sheik and Dubai  Arrived back in SA 9 days ago and have been self-isolated. I have started with mild symptoms such as sore throat, cough, fatigue but temperature is normal. I need a referral?I have travelled in the last 14 days was in Cairo, Sharm El Sheik and Dubai  Arrived back in SA 9 days ago and have been self-isolated. I have started with mild symptoms such as sore throat, cough, fatigue but temperature is normal. I need a referral?",
-        "Doctor:In brief:   COVID-19 criteria   Do you have any medical conditions that would put you at high risk? If so, I would book a virtual consult with a dr. If not, we are not currently testing due to lack of capacity if there is no fever, dry cough & shortness of breath with travel history.   I would treat for flu and complete 14 days (possibly longer if still sick) quarantine and contact a dr if condition changes  Would you like to video or text chat with me?"
+        "Doctor:COVID-19 criteria   Do you have any medical conditions that would put you at high risk? If so, I would book a virtual consult with a dr. If not, we are not currently testing due to lack of capacity if there is no fever, dry cough & shortness of breath with travel history.   I would treat for flu and complete 14 days (possibly longer if still sick) quarantine and contact a dr if condition changes  Would you like to video or text chat with me?"
     ],
     [
         "Patient:Having slight itching at throat but no cough. Is it any thing related to covid?Having slight itching at throat but no cough. Is it any thing related to covid?",
@@ -141,7 +141,7 @@
     ],
     [
         "Patient:I have some suspected mulluscum on most of my stomach but it's itchy, inflammed, sentitive, and it's spreading. Aren't most people supposed to around 20 bumps? Why is it peeling so much?  Most of all, what is the best way to treat mulluscum at home?I have some suspected mulluscum on most of my stomach but it's itchy, inflammed, sentitive, and it's spreading. Aren't most people supposed to around 20 bumps? Why is it peeling so much?  Most of all, what is the best way to treat mulluscum at home?",
-        "Doctor:In brief:   Hard to get rid of   Molluscum is a virus, the less you touch the lesions the less you will spread the infection.   If you want to get rid of it it’s hard, but would suggest a dermatologist rather than the freezing sprays or chemicals used to kill the virus in the skin. There is no ‘limit’ to number of lesions, have not heard that information, but I would not believe that  Would you like to video or text chat with me?"
+        "Doctor:Hard to get rid of   Molluscum is a virus, the less you touch the lesions the less you will spread the infection.   If you want to get rid of it it’s hard, but would suggest a dermatologist rather than the freezing sprays or chemicals used to kill the virus in the skin. There is no ‘limit’ to number of lesions, have not heard that information, but I would not believe that  Would you like to video or text chat with me?"
     ],
     [
         "Patient:I have a sore throat, coughing, swollen glands in neck. I am a teacher. I was in contact with many kids until Wed last week. One of the parents tested positive for Covid 19 but there is no way I was in contact. What should I do?I have a sore throat, coughing, swollen glands in neck. I am a teacher. I was in contact with many kids until Wed last week. One of the parents tested positive for Covid 19 but there is no way I was in contact. What should I do?",
@@ -157,7 +157,7 @@
     ],
     [
         "Patient:At what temperature range (external temperature) will the COVID-19 virus be destroyed?  This in relation to (restaurants) cooking food and safety.  What does COVID stand for?At what temperature range (external temperature) will the COVID-19 virus be destroyed?  This in relation to (restaurants) cooking food and safety.  What does COVID stand for?",
-        "Doctor:In brief:   High temperature   COVID stands for 'COrona VIrus Diesase'.   We know that high temperature kills most pathogens eg protozoa, viruses and bacteria. That's why cooking is recommending for certain foods rather than eating it 'raw'. Temperatures of 140 to 160 degree F kills most pathogens including viruses. Corona viruses are sensitive to heat and cooking will destroy the outer protein layer and kill the virus.   Would you like to video or text chat with me?"
+        "Doctor:High temperature   COVID stands for 'COrona VIrus Diesase'.   We know that high temperature kills most pathogens eg protozoa, viruses and bacteria. That's why cooking is recommending for certain foods rather than eating it 'raw'. Temperatures of 140 to 160 degree F kills most pathogens including viruses. Corona viruses are sensitive to heat and cooking will destroy the outer protein layer and kill the virus.   Would you like to video or text chat with me?"
     ],
     [
         "Patient:Vomiting, diarrhea, achey, dizzy and weak fever has kept rising and is now at 103.4 any advice?Vomiting, diarrhea, achey, dizzy and weak fever has kept rising and is now at 103.4 any advice?",
@@ -169,11 +169,11 @@
     ],
     [
         "Patient:What symptoms should I look out for in the novel coronavirus pandemic?What symptoms should I look out for in the novel coronavirus pandemic?",
-        "Doctor:In brief:   Symptoms   The symptom of COVID-19 begins with mild flu-like symptoms such as fatigue, sore throat and sneeze, followed by fever, dry cough.   In severe cases, the cough can progress to productive cough, persistent and followed by shortness of breath. Some patients may also experience GI symptoms such as nausea vomiting and diarrhea.   Would you like to video or text chat with me?"
+        "Doctor:Symptoms   The symptom of COVID-19 begins with mild flu-like symptoms such as fatigue, sore throat and sneeze, followed by fever, dry cough.   In severe cases, the cough can progress to productive cough, persistent and followed by shortness of breath. Some patients may also experience GI symptoms such as nausea vomiting and diarrhea.   Would you like to video or text chat with me?"
     ],
     [
         "Patient:Is the cough of a patient with Covid-19 any different sounding than a cough of a patient with a cold?Is the cough of a patient with Covid-19 any different sounding than a cough of a patient with a cold?",
-        "Doctor:In brief:   Cough of COVID-19   In COVID-19, cough is usually dry, persistent (initially not much different from a cold), then turns into wet with mucus and high fever (pneumonia).   In severe cases, severe shortness of breath and oxygen desaturation can develop after the pneumonia (severe respiratory distress syndrome).   Would you like to video or text chat with me?"
+        "Doctor:Cough of COVID-19   In COVID-19, cough is usually dry, persistent (initially not much different from a cold), then turns into wet with mucus and high fever (pneumonia).   In severe cases, severe shortness of breath and oxygen desaturation can develop after the pneumonia (severe respiratory distress syndrome).   Would you like to video or text chat with me?"
     ],
     [
         "Patient:Can a cool mist vaporizer help with the Corona virus since it doesn’t like humidity?Can a cool mist vaporizer help with the Corona virus since it doesn’t like humidity?",
@@ -181,19 +181,19 @@
     ],
     [
         "Patient:Low grade fevers 99.8, constant trigger points that are tender to touch in trapezius muscles and muscles feel warm to touch, pointer finger, and middle finger on right hand are very sore, sore to open and close hand in those fingers, whats wrong?Low grade fevers 99.8, constant trigger points that are tender to touch in trapezius muscles and muscles feel warm to touch, pointer finger, and middle finger on right hand are very sore, sore to open and close hand in those fingers, whats wrong?",
-        "Doctor:In brief:   Systemic infection   Fever and muscle pains could indicate systemic infection, likely viral, deoendiing on your travel history.  Right hand joint pains, if previously injured or arthritic, could be flared up by systemic infection.Call your local Nurse or Doctor to get screened telephonically for Influenza & Corona viruses & Malaria.Colchicine and Panado may help if gouty joint pains.  Would you like to video or text chat with me?"
+        "Doctor:Systemic infection   Fever and muscle pains could indicate systemic infection, likely viral, deoendiing on your travel history.  Right hand joint pains, if previously injured or arthritic, could be flared up by systemic infection.Call your local Nurse or Doctor to get screened telephonically for Influenza & Corona viruses & Malaria.Colchicine and Panado may help if gouty joint pains.  Would you like to video or text chat with me?"
     ],
     [
         "Patient:If you feel not quite well 3 or 4 evenings in a row,no fever,minor dry cough,little stuffy,maybe scratchy throat very minor,just crummy feeling in general and evenings only (feel fine during the day) could that be a mild case of Coronavirus? Thanks.If you feel not quite well 3 or 4 evenings in a row,no fever,minor dry cough,little stuffy,maybe scratchy throat very minor,just crummy feeling in general and evenings only (feel fine during the day) could that be a mild case of Coronavirus? Thanks.",
-        "Doctor:In brief:   Viral syndrome   You're symptoms are likely viral syndrome; could be the flu, however, given the current COVID outbreak, it may very well be corona virus.    Please follow CDC guidelines for self quarantine.  Wash your hands frequently with soap and water.   Keep hydrated. Take tylenol for fever/pain.  Would you like to video or text chat with me?"
+        "Doctor:Viral syndrome   You're symptoms are likely viral syndrome; could be the flu, however, given the current COVID outbreak, it may very well be corona virus.    Please follow CDC guidelines for self quarantine.  Wash your hands frequently with soap and water.   Keep hydrated. Take tylenol for fever/pain.  Would you like to video or text chat with me?"
     ],
     [
         "Patient:Pain in right arm, from shoulder to fingers. For a month now. NP gave Chlorzoxazone 500 mg. It was better bt aftr I stopped taking med, started paining again, a little numb too. history of chronic neck and shoulder pain.  cant go to doc now. (covid)?Pain in right arm, from shoulder to fingers. For a month now. NP gave Chlorzoxazone 500 mg. It was better bt aftr I stopped taking med, started paining again, a little numb too. history of chronic neck and shoulder pain.  cant go to doc now. (covid)?",
-        "Doctor:In brief:   Likely nerve pain   this diagnosis would require a visit and imaging but the most likely cause is either pressure on a nerve in your neck or referred pain from the neck and shoulder with symptoms felt at the shoulder/shoulder blade.    Try to use the chlorzoxazone or an NSAID (ibuprofen or naproxen) or a combo of both and also try ice for pain, heat for stiffness or spasms.  It doesn't sound at all like COVID-19.  Would you like to video or text chat with me?"
+        "Doctor:Likely nerve pain   this diagnosis would require a visit and imaging but the most likely cause is either pressure on a nerve in your neck or referred pain from the neck and shoulder with symptoms felt at the shoulder/shoulder blade.    Try to use the chlorzoxazone or an NSAID (ibuprofen or naproxen) or a combo of both and also try ice for pain, heat for stiffness or spasms.  It doesn't sound at all like COVID-19.  Would you like to video or text chat with me?"
     ],
     [
         "Patient:Where can I get tested for COVID19? And will discovery pay for the test?Where can I get tested for COVID19? And will discovery pay for the test?",
-        "Doctor:In brief:   Consult first   BEtter to consult either telephonically or virtually.   Lancet and ampath are doing tests. Discovery will pay if it is positive. Gift of the givers are also doing drive through testing for R750.00 - at least in pietermaritzburg. Discovery have a covid fund.  Would you like to video or text chat with me?"
+        "Doctor:Consult first   BEtter to consult either telephonically or virtually.   Lancet and ampath are doing tests. Discovery will pay if it is positive. Gift of the givers are also doing drive through testing for R750.00 - at least in pietermaritzburg. Discovery have a covid fund.  Would you like to video or text chat with me?"
     ],
     [
         "Patient:I’m petrified of dying from coronavirus, because of my diabetes, but don’t know what I can do?I’m petrified of dying from coronavirus, because of my diabetes, but don’t know what I can do?",
@@ -205,11 +205,11 @@
     ],
     [
         "Patient:If I inhale enough Lysol, will it keep me from getting sick from novel coronavirus?If I inhale enough Lysol, will it keep me from getting sick from novel coronavirus?",
-        "Doctor:In brief:   Um, no   Inhaling Lysol can be deleterious to your health, more than COVID-19 itself.   Burning your pulmonary tissues may actually make you more susceptible to getting sick from the virus. Be rational.  Would you like to video or text chat with me?"
+        "Doctor:Um, no   Inhaling Lysol can be deleterious to your health, more than COVID-19 itself.   Burning your pulmonary tissues may actually make you more susceptible to getting sick from the virus. Be rational.  Would you like to video or text chat with me?"
     ],
     [
         "Patient:Is corno virus 19 can stay on metal and plastic what about the soles of shoes ?  Would it be nessasary or good idea  to take shoes off at door at home and spray with lysol ?Is corno virus 19 can stay on metal and plastic what about the soles of shoes ?  Would it be nessasary or good idea  to take shoes off at door at home and spray with lysol ?",
-        "Doctor:In brief:   Great Question   Not sure if you need to worry about your shoes, but it won't hurt.   In my house, we take off shoes and outside clothes at the door after we enter. The clothes go immediately into the laundry, we wash our hands with soap and water, then put on \"house clothes\". Different from \"public\" clothes. We try to prevent the potential introduction of the virus into out home. Once inside, everything is clean.  Would you like to video or text chat with me?"
+        "Doctor:Great Question   Not sure if you need to worry about your shoes, but it won't hurt.   In my house, we take off shoes and outside clothes at the door after we enter. The clothes go immediately into the laundry, we wash our hands with soap and water, then put on \"house clothes\". Different from \"public\" clothes. We try to prevent the potential introduction of the virus into out home. Once inside, everything is clean.  Would you like to video or text chat with me?"
     ],
     [
         "Patient:Are viruses and bacterias live creatures?Are viruses and bacterias live creatures?",
@@ -225,6 +225,6 @@
     ],
     [
         "Patient:I have all the symptoms except fever, I went to Medicross and Dr said I can get tested if I want to I'm not sure if I should. She gave me antibiotics Klacid XL 500mg, she said I can take it if I feel worse I'm worried it will make immune system bad?I have all the symptoms except fever, I went to Medicross and Dr said I can get tested if I want to I'm not sure if I should. She gave me antibiotics Klacid XL 500mg, she said I can take it if I feel worse I'm worried it will make immune system bad?",
-        "Doctor:In brief:   Antibiotic   I don't recommend antibiotics for a simple viral upper respiratory tract infection unless examination revealed signs of acute bronchitis or sinusitis.   They are not effective for viral infections like coVid 19 with no bacterial lung involvement either. If you've been exposed to someone with coVid 19 or or if you or someone you were exposed to travelled to a region where it was endemic, get tested  Would you like to video or text chat with me?"
+        "Doctor:Antibiotic   I don't recommend antibiotics for a simple viral upper respiratory tract infection unless examination revealed signs of acute bronchitis or sinusitis.   They are not effective for viral infections like coVid 19 with no bacterial lung involvement either. If you've been exposed to someone with coVid 19 or or if you or someone you were exposed to travelled to a region where it was endemic, get tested  Would you like to video or text chat with me?"
     ]
 ]

@@ -6,13 +6,15 @@ def get_data(file_name):
     f_in = open(file_name)
     data = json.load(f_in)
     f_in.close()
-    #new_name = file_name.replace(".json", ".txt").replace("data", "med")
     new_name = file_name.rsplit('/', 1)[1].replace(".json", ".txt").replace("data", "med")
     f_out = open("data/" + new_name, "w")
     total = 1
     for dialogs in tqdm(data):
         for utts in dialogs:
-            utt = utts[3:]
+            # When using English character
+            utt = utts.rsplit('Patient:')[1] if "Patient:" in utts else utts.rsplit('Doctor:')[1]
+            # When using Chinese character
+            # utt = utts[3:]
             f_out.write(utt + "\n")
         if (total < len(data)):
             f_out.write("\n")

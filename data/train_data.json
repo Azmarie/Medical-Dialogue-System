@@ -643,7 +643,7 @@
     ],
     [
         "Patient:Should I be tested for COVID-19? I have a cough and phlegm on my chest as well as headaches. I always get colds and flu that affect my chest。Should I be tested for COVID-19? I have a cough and phlegm on my chest as well as headaches. I always get colds and flu that affect my chest。",
-        "Doctor:In brief:   It depends.   It depends of your country and the state of coronavirus, in some places you need to have traveled recently to another country to get the test, and in another countrys you need to be tested right away after any symptoms.   You should check your country  phase of coronavirus  Would you like to video or text chat with me?"
+        "Doctor:It depends.   It depends of your country and the state of coronavirus, in some places you need to have traveled recently to another country to get the test, and in another countrys you need to be tested right away after any symptoms.   You should check your country  phase of coronavirus  Would you like to video or text chat with me?"
     ],
     [
         "Patient:Should I really be worried about my elderly parents catching COVID-19? What steps should they take to stay healthy?Should I really be worried about my elderly parents catching COVID-19? What steps should they take to stay healthy?",
@@ -651,7 +651,7 @@
     ],
     [
         "Patient:How can I avoid catching COVID-19 if I have to travel by plane or public transportation?How can I avoid catching COVID-19 if I have to travel by plane or public transportation?",
-        "Doctor:In brief:   Same measures    Wear a mask, social distance as possible, try not to touch surfaces, keep hands clean.   Best would still be not to travel if possible.  Would you like to video or text chat with me?"
+        "Doctor:Same measures    Wear a mask, social distance as possible, try not to touch surfaces, keep hands clean.   Best would still be not to travel if possible.  Would you like to video or text chat with me?"
     ],
     [
         "Patient:I am a little concerned that I may be showing some symptoms for Coronavirus. I have had a bit of a dry cough about 2 weeks ago for 3 days. A week later I had a headache and got nauseaus. I never get headaches. My chest has felt unusual for 5 days.I am a little concerned that I may be showing some symptoms for Coronavirus. I have had a bit of a dry cough about 2 weeks ago for 3 days. A week later I had a headache and got nauseaus. I never get headaches. My chest has felt unusual for 5 days.",
@@ -663,11 +663,11 @@
     ],
     [
         "Patient:Dry scratchy throat, very mild cough since 23 March but not improving. Traveled to Cape Town via Lanseria and CT Airports 15-20 March. Wife has sore throat, nasal congestion, lethargy & headaches since 21 March. Should we see a doctor to be assessed?Dry scratchy throat, very mild cough since 23 March but not improving. Traveled to Cape Town via Lanseria and CT Airports 15-20 March. Wife has sore throat, nasal congestion, lethargy & headaches since 21 March. Should we see a doctor to be assessed?",
-        "Doctor:In brief:   Stay home.   Stay home for at least 7 days, rest, drink fluids and monitor your temperature.   There is an overlap between flu and COVID-19 symptoms. Nasal congestion and absence of fever are not typically associated with COVID.  Would you like to video or text chat with me?"
+        "Doctor:Stay home.   Stay home for at least 7 days, rest, drink fluids and monitor your temperature.   There is an overlap between flu and COVID-19 symptoms. Nasal congestion and absence of fever are not typically associated with COVID.  Would you like to video or text chat with me?"
     ],
     [
         "Patient:If Allegra use is associated with increased risk of viral infections, isn't it dangerous to take it during the coronavirus pandemic?If Allegra use is associated with increased risk of viral infections, isn't it dangerous to take it during the coronavirus pandemic?",
-        "Doctor:In brief:   Being cautious best.   Any medication that can increase the potential of viral infections should be avoided during a coronavirus outbreak such as we are seeing now.  Would you like to video or text chat with me?"
+        "Doctor:Being cautious best.   Any medication that can increase the potential of viral infections should be avoided during a coronavirus outbreak such as we are seeing now.  Would you like to video or text chat with me?"
     ],
     [
         "Patient:Some doctors think that the combination of Hydroxychloroquine and Azithromycin may be effective against COVID19. They believe this the only option we have until a vaccine becomes available. At least it is worth trying. Do you agree?Some doctors think that the combination of Hydroxychloroquine and Azithromycin may be effective against COVID19. They believe this the only option we have until a vaccine becomes available. At least it is worth trying. Do you agree?",
@@ -675,11 +675,11 @@
     ],
     [
         "Patient:Where do genital warts come from? My partner has visible ones, however I don’t. I’m female. Could they be there internally ? What are the origins of this virus?Where do genital warts come from? My partner has visible ones, however I don’t. I’m female. Could they be there internally ? What are the origins of this virus?",
-        "Doctor:In brief:   HPV virus   Human papiloma virus.   You wont necessarily have them but you could have the virus. When last did you have a papsmear. THey can pick it up on that. Once we are out of lockdown get a papsmear.  Would you like to video or text chat with me?"
+        "Doctor:HPV virus   Human papiloma virus.   You wont necessarily have them but you could have the virus. When last did you have a papsmear. THey can pick it up on that. Once we are out of lockdown get a papsmear.  Would you like to video or text chat with me?"
     ],
     [
         "Patient:Blocked nose,coughing,aore throat,sometimes fever.Sometimes body aches.Blocked nose,coughing,aore throat,sometimes fever.Sometimes body aches.",
-        "Doctor:In brief:   Telephonic consult?   Could well be another respiratory virus, I would stay home for now.   Use this platform to consult either virtually or ask more questions. Use home medicine - decongestant and pain medication. STay away from any anti-inflammatories if possible. Keep up warm fluids.  Would you like to video or text chat with me?"
+        "Doctor:Telephonic consult?   Could well be another respiratory virus, I would stay home for now.   Use this platform to consult either virtually or ask more questions. Use home medicine - decongestant and pain medication. STay away from any anti-inflammatories if possible. Keep up warm fluids.  Would you like to video or text chat with me?"
     ],
     [
         "Patient:I have had a sore throat for a few days, Tuesday Night it felt like tonsils, Yesterday it started becoming scratchy and today I have started coughing and spitting mucus. I do not have a fever, But I get light headed here and there, could it be Covid?I have had a sore throat for a few days, Tuesday Night it felt like tonsils, Yesterday it started becoming scratchy and today I have started coughing and spitting mucus. I do not have a fever, But I get light headed here and there, could it be Covid?",
@@ -687,7 +687,7 @@
     ],
     [
         "Patient:I have had a sore throat for a few days, Tuesday Night it felt like tonsils, Yesterday it started becoming scratchy and today I have started coughing and spitting mucus. I do not have a fever, But i get light headed here and there, could it be Covid-?I have had a sore throat for a few days, Tuesday Night it felt like tonsils, Yesterday it started becoming scratchy and today I have started coughing and spitting mucus. I do not have a fever, But i get light headed here and there, could it be Covid-?",
-        "Doctor:In brief:   Very unlikely   It sounds more like a viral cold.   covid does not present this way. treat the symptoms,consult GP if worse or if sputum changes color.  Would you like to video or text chat with me?"
+        "Doctor:Very unlikely   It sounds more like a viral cold.   covid does not present this way. treat the symptoms,consult GP if worse or if sputum changes color.  Would you like to video or text chat with me?"
     ],
     [
         "Patient:Because I have type 1 diabetes, does that mean I can’t get the virus just mildly? Am I likely to have severe complications? Please help.Because I have type 1 diabetes, does that mean I can’t get the virus just mildly? Am I likely to have severe complications? Please help.",
@@ -719,7 +719,7 @@
     ],
     [
         "Patient:I have a flu that is getting worse and I have returned from the UK at the end of Feb and I have been in direct contact with British and Brazilian tourists in SA since then. Should I get tested for covid-19 or just remain home with my family?I have a flu that is getting worse and I have returned from the UK at the end of Feb and I have been in direct contact with British and Brazilian tourists in SA since then. Should I get tested for covid-19 or just remain home with my family?",
-        "Doctor:In brief:   Overseas and Covid   Yes,direct contact with anyone from Europe and travel history must get tested.  There are drive in facilities in Johannesburg.Check the net for testing places in CT  Would you like to video or text chat with me?"
+        "Doctor:Overseas and Covid   Yes,direct contact with anyone from Europe and travel history must get tested.  There are drive in facilities in Johannesburg.Check the net for testing places in CT  Would you like to video or text chat with me?"
     ],
     [
         "Patient:Are patients with diabetes, less likely to survive this awful virus?Are patients with diabetes, less likely to survive this awful virus?",
@@ -731,15 +731,15 @@
     ],
     [
         "Patient:Hi  My throat is sore, and very scratchy, I have also have a cough to accompany this, well the cough started about a week ago, I have no fever. Just want to know if this is anyway related to covid 19  My voice is also very hoarse?Hi  My throat is sore, and very scratchy, I have also have a cough to accompany this, well the cough started about a week ago, I have no fever. Just want to know if this is anyway related to covid 19  My voice is also very hoarse?",
-        "Doctor:In brief:   Unlikely   It could be, however going out right now is dangerous to you and others.   If you don't have it yet going out risks getting it. If you have it you can spread it. Try to access a thorough consult on the phone or virtually. Keep chatting we are here for you.  Would you like to video or text chat with me?"
+        "Doctor:Unlikely   It could be, however going out right now is dangerous to you and others.   If you don't have it yet going out risks getting it. If you have it you can spread it. Try to access a thorough consult on the phone or virtually. Keep chatting we are here for you.  Would you like to video or text chat with me?"
     ],
     [
         "Patient:Hi, I have a bad cough, sinus congestion and body aches but no fever. Should I consult with a doctor regarding the current covid19 pandemic?Hi, I have a bad cough, sinus congestion and body aches but no fever. Should I consult with a doctor regarding the current covid19 pandemic?",
-        "Doctor:In brief:   Most likely not c   Most likely sinusitis or seasonal allergy.   Try to access a telelphonic or virtual consult to discuss thoroughly with someone. For now stay home stay safe. Treat yourself and all in your family as if they have covid for now =it's safer.  Would you like to video or text chat with me?"
+        "Doctor:Most likely not c   Most likely sinusitis or seasonal allergy.   Try to access a telelphonic or virtual consult to discuss thoroughly with someone. For now stay home stay safe. Treat yourself and all in your family as if they have covid for now =it's safer.  Would you like to video or text chat with me?"
     ],
     [
         "Patient:My son is not feeling well. He has a very snotty nose, sore throat, occasional flemmy cough, uneasy stomach. He had a headache last night. No fever.  Is it a common cold or must he be checked for Covid 19. Not travelled or been in contact with anyone?My son is not feeling well. He has a very snotty nose, sore throat, occasional flemmy cough, uneasy stomach. He had a headache last night. No fever.  Is it a common cold or must he be checked for Covid 19. Not travelled or been in contact with anyone?",
-        "Doctor:In brief:   No not now   GEt telephonic consult via this or other forums.   Not indicated to be tested right now. Use medication you have at home to treat symptoms right now. Use this forum if symptoms change.  Would you like to video or text chat with me?"
+        "Doctor:No not now   GEt telephonic consult via this or other forums.   Not indicated to be tested right now. Use medication you have at home to treat symptoms right now. Use this forum if symptoms change.  Would you like to video or text chat with me?"
     ],
     [
         "Patient:Good morning I have sore throat for 2 days now, this morning I woke up and my throat was a lot better just a little scratchy. My other symptoms this morning were stuffy nose and a bit on the sore side with my body?Good morning I have sore throat for 2 days now, this morning I woke up and my throat was a lot better just a little scratchy. My other symptoms this morning were stuffy nose and a bit on the sore side with my body?",
@@ -759,7 +759,7 @@
     ],
     [
         "Patient:Hi! So I’m a 20 year old female. I started working out about a year ago. I noticed some lower abdominal pain after partaking in abdominal workouts. But also notice it around the time of my period. It’s right next to/under my hip bone on left side.Hi! So I’m a 20 year old female. I started working out about a year ago. I noticed some lower abdominal pain after partaking in abdominal workouts. But also notice it around the time of my period. It’s right next to/under my hip bone on left side.",
-        "Doctor:In brief:   This could well be very normal.   One can get pain on day 14 during ovulation and before and during the period. Use panado for this and once we are through this corona virus you can use anti-inflammatories.  Would you like to video or text chat with me?"
+        "Doctor:This could well be very normal.   One can get pain on day 14 during ovulation and before and during the period. Use panado for this and once we are through this corona virus you can use anti-inflammatories.  Would you like to video or text chat with me?"
     ],
     [
         "Patient:Will getting either of the pneumonia vaccines, Prevnar and Pneumovax, prevent you from developing pneumonia if you catch the flu or covid?Will getting either of the pneumonia vaccines, Prevnar and Pneumovax, prevent you from developing pneumonia if you catch the flu or covid?",
@@ -767,7 +767,7 @@
     ],
     [
         "Patient:Will coronavirus make my kids more susceptible to catching the flu? Should all kids be vaccinated against the flu in case they catch COVID-19?Will coronavirus make my kids more susceptible to catching the flu? Should all kids be vaccinated against the flu in case they catch COVID-19?",
-        "Doctor:In brief:   It may help.   Coronavirus infections may make individuals more susceptible to catching other viral or bacterial infections, esp.   if there are underlying respiratory conditions such as asthma or COPD, cardiac conditions or immunocompromised states. Flu vaccines may afford a certain level of protection to kids, but they do not protect against all strains of the influenza virus.   Would you like to video or text chat with me?"
+        "Doctor:It may help.   Coronavirus infections may make individuals more susceptible to catching other viral or bacterial infections, esp.   if there are underlying respiratory conditions such as asthma or COPD, cardiac conditions or immunocompromised states. Flu vaccines may afford a certain level of protection to kids, but they do not protect against all strains of the influenza virus.   Would you like to video or text chat with me?"
     ],
     [
         "Patient:I have no termometer for fever cheek.does covid 19 cause persistent fever or it comes and goes.i feel my body little hot two times a day a have nasal allergy and parangities for long time.every years it's come for a while?I have no termometer for fever cheek.does covid 19 cause persistent fever or it comes and goes.i feel my body little hot two times a day a have nasal allergy and parangities for long time.every years it's come for a while?",
@@ -775,7 +775,7 @@
     ],
     [
         "Patient:I take irbesartan (angiotensin receptor blocker) for uncomplicated hypertension. It increases cell expression of angiotensin receptors (AR’s). COVID enters cells via AR’s. Should I change my blood pressure meds? Thanks。I take irbesartan (angiotensin receptor blocker) for uncomplicated hypertension. It increases cell expression of angiotensin receptors (AR’s). COVID enters cells via AR’s. Should I change my blood pressure meds? Thanks。",
-        "Doctor:In brief:   Contact Dr    Rather get hold of your regular GP and discuss over the telephone regarding this issue.   DO NOT STOP OR DO THIS ON YOUR OWN.  Would you like to video or text chat with me?"
+        "Doctor:Contact Dr    Rather get hold of your regular GP and discuss over the telephone regarding this issue.   DO NOT STOP OR DO THIS ON YOUR OWN.  Would you like to video or text chat with me?"
     ],
     [
         "Patient:I have type 1 diabetes that I try hard to control, but I struggle with. Are my chances high for poor outcomes with the virus? I’m in such a panic about it.I have type 1 diabetes that I try hard to control, but I struggle with. Are my chances high for poor outcomes with the virus? I’m in such a panic about it.",
@@ -783,15 +783,15 @@
     ],
     [
         "Patient:Itchy ears, painful ears pain in roof of mouth only at night. Post nasal drip. I’ve sneezed a few times and sometimes my nose runs in the morning what could this be? Also sometimes I cough but not a lot. Any idea? Covid 19?Itchy ears, painful ears pain in roof of mouth only at night. Post nasal drip. I’ve sneezed a few times and sometimes my nose runs in the morning what could this be? Also sometimes I cough but not a lot. Any idea? Covid 19?",
-        "Doctor:In brief:   Probably not Covid.   May be allergic, bacterial sinus infection, a different virus, a narrow upper jaw with partial airway obstruction, or other causes.   Call your General Physician and check if they want to see you. See your Dentist to evaluate if your upper jaw is too narrow and if you need to see an Orthodontist.  Would you like to video or text chat with me?"
+        "Doctor:Probably not Covid.   May be allergic, bacterial sinus infection, a different virus, a narrow upper jaw with partial airway obstruction, or other causes.   Call your General Physician and check if they want to see you. See your Dentist to evaluate if your upper jaw is too narrow and if you need to see an Orthodontist.  Would you like to video or text chat with me?"
     ],
     [
         "Patient:Should I stay away from my family if I still have to work during the pandemic? I deliver beer to grocery stores and gas stations.. and I’ve been worried about possibly getting it and then them catching it.. since they said you can be asymptotic..Should I stay away from my family if I still have to work during the pandemic? I deliver beer to grocery stores and gas stations.. and I’ve been worried about possibly getting it and then them catching it.. since they said you can be asymptotic..",
-        "Doctor:In brief:   Difficult times.   This is a difficult question.   Many workers like you wear masks, gloves, stand 6 feet from others, take off work clothes on entering their home, wash meticulously. Read more tips from Covid19 hotlines.  Would you like to video or text chat with me?"
+        "Doctor:Difficult times.   This is a difficult question.   Many workers like you wear masks, gloves, stand 6 feet from others, take off work clothes on entering their home, wash meticulously. Read more tips from Covid19 hotlines.  Would you like to video or text chat with me?"
     ],
     [
         "Patient:My hba1c isn’t within target, but I try so hard. Does that mean that I am likely to end up in hospital, or die, from coronavirus?My hba1c isn’t within target, but I try so hard. Does that mean that I am likely to end up in hospital, or die, from coronavirus?",
-        "Doctor:In brief:   Not necessarily   You need to consult an endocrinologist for advice about diet, weight control, and medication for controlling A1c.    It is not feasible to provide more useful suggestions without talking to you, performing physical examination and may be some test.Wish you good health!  Would you like to video or text chat with me?"
+        "Doctor:Not necessarily   You need to consult an endocrinologist for advice about diet, weight control, and medication for controlling A1c.    It is not feasible to provide more useful suggestions without talking to you, performing physical examination and may be some test.Wish you good health!  Would you like to video or text chat with me?"
     ],
     [
         "Patient:I'm quite sure that I have Covid-19. My mother is a health worker that has been exposed. Among my symptoms is trouble breathing and pain in the chest. Can I sleep and see how I feel tomorrow or is there a risk that I'll stop breathing in the night?I'm quite sure that I have Covid-19. My mother is a health worker that has been exposed. Among my symptoms is trouble breathing and pain in the chest. Can I sleep and see how I feel tomorrow or is there a risk that I'll stop breathing in the night?",
@@ -803,7 +803,7 @@
     ],
     [
         "Patient:My 68 yrs old mom still waiting for corona virus test results. She’s had 101-102 fever for a week CT showed pneumonia she is at the hospital now . Does the fact that her fever is not getting better means that her pneumonia isn’t getting better?My 68 yrs old mom still waiting for corona virus test results. She’s had 101-102 fever for a week CT showed pneumonia she is at the hospital now . Does the fact that her fever is not getting better means that her pneumonia isn’t getting better?",
-        "Doctor:In brief:   One sign   On treatment for bacterial pneumonia, fever will usually decline within 2 days.    A follow up chest image may be indicated. If you would like to upload her CT and clinical information to an inbox consultation with HT, we can provide an opinion. Sometimes there is slow resolution of a pneumonia, particularly with underlying medical conditions. The test results should be back soon.   Would you like to video or text chat with me?"
+        "Doctor:One sign   On treatment for bacterial pneumonia, fever will usually decline within 2 days.    A follow up chest image may be indicated. If you would like to upload her CT and clinical information to an inbox consultation with HT, we can provide an opinion. Sometimes there is slow resolution of a pneumonia, particularly with underlying medical conditions. The test results should be back soon.   Would you like to video or text chat with me?"
     ],
     [
         "Patient:State officials put temp ban on all group activities & shut down nonessential businesses to curb COVID-19 spread. In light of that, would you say hosting a group yoga class in school parking lot is unwise? Neighbor is doing that & I'm concerned.State officials put temp ban on all group activities & shut down nonessential businesses to curb COVID-19 spread. In light of that, would you say hosting a group yoga class in school parking lot is unwise? Neighbor is doing that & I'm concerned.",
@@ -815,19 +815,19 @@
     ],
     [
         "Patient:Is ritonavir  100mg and lopinavir400mg are safe drugs in COVID-19 and is improvement appear in patient??Is ritonavir  100mg and lopinavir400mg are safe drugs in COVID-19 and is improvement appear in patient??",
-        "Doctor:In brief:   No   There is not enough data to support it's use.   More clinical trials are needed  Would you like to video or text chat with me?"
+        "Doctor:No   There is not enough data to support it's use.   More clinical trials are needed  Would you like to video or text chat with me?"
     ],
     [
         "Patient:Do I need to take my 10 month old son for his measles vaccinations now that it is due or can it wait until the Coronavirus Pandemic has calmed down as I dont want to expose him unnecessarily in clinics or hospitals.Do I need to take my 10 month old son for his measles vaccinations now that it is due or can it wait until the Coronavirus Pandemic has calmed down as I dont want to expose him unnecessarily in clinics or hospitals.",
-        "Doctor:In brief:   Wait for now   Wait for now, keep talking on this platform. Stay safe.  Would you like to video or text chat with me?"
+        "Doctor:Wait for now   Wait for now, keep talking on this platform. Stay safe.  Would you like to video or text chat with me?"
     ],
     [
         "Patient:My 10 month old Baby Boy is scheduled to have his measles vaccination during the Lockdown. I want to know if we can wait to do his next vaccination until after this coronavirus has calmed down. I dont want to risk exposing him unnecessarily.My 10 month old Baby Boy is scheduled to have his measles vaccination during the Lockdown. I want to know if we can wait to do his next vaccination until after this coronavirus has calmed down. I dont want to risk exposing him unnecessarily.",
-        "Doctor:In brief:   Wait   My advice would be wait and don't risk exposure and spread right now.   Quarantine. Safe stay. We are here for you on this platform.  Would you like to video or text chat with me?"
+        "Doctor:Wait   My advice would be wait and don't risk exposure and spread right now.   Quarantine. Safe stay. We are here for you on this platform.  Would you like to video or text chat with me?"
     ],
     [
         "Patient:My 5 year old son woke Up not feeling well. I measured his temperature and mouth reading is 38.3 and armpit is 38.2. He says he’s head is sore and his neck is sore. Am scared it may be covid-19?My 5 year old son woke Up not feeling well. I measured his temperature and mouth reading is 38.3 and armpit is 38.2. He says he’s head is sore and his neck is sore. Am scared it may be covid-19?",
-        "Doctor:In brief:   Arrange testing   Stay home, provide fluids and ibuprofen after checking his temperature.   If he does not look well to you, please arrange a virtual or in person appointment with your pediatrician. Avoid contact with others, use good hand washing and consider testing for Influenza and Coronavirus.   Would you like to video or text chat with me?"
+        "Doctor:Arrange testing   Stay home, provide fluids and ibuprofen after checking his temperature.   If he does not look well to you, please arrange a virtual or in person appointment with your pediatrician. Avoid contact with others, use good hand washing and consider testing for Influenza and Coronavirus.   Would you like to video or text chat with me?"
     ],
     [
         "Patient:My 68 yr old mom is waiting for corona virus results. She’s been having fever 101-102 for a week. Was admitted to hospital and has pneumonia. How is it treated and should she stay at the hospital until her symptoms get better? She has HTN. Help!My 68 yr old mom is waiting for corona virus results. She’s been having fever 101-102 for a week. Was admitted to hospital and has pneumonia. How is it treated and should she stay at the hospital until her symptoms get better? She has HTN. Help!",
@@ -835,7 +835,7 @@
     ],
     [
         "Patient:What can I use against coronavirus if I run out of hand sanitizer?What can I use against coronavirus if I run out of hand sanitizer?",
-        "Doctor:In brief:   Water and soap   It is best, providing available easily.   Trying not to touch shared places would also protect to some extent.  Would you like to video or text chat with me?"
+        "Doctor:Water and soap   It is best, providing available easily.   Trying not to touch shared places would also protect to some extent.  Would you like to video or text chat with me?"
     ],
     [
         "Patient:Does hand sanitizer actually work? Where do all the germs go after using it, and will it actually protect me against COVID-19?Does hand sanitizer actually work? Where do all the germs go after using it, and will it actually protect me against COVID-19?",
@@ -843,7 +843,7 @@
     ],
     [
         "Patient:Should someone with a compromised immune system due to rheumatoid arthritis get the flu vaccine, especially during the COVID-19 crisis? Also, does the flu vaccine in South Africa use live or dead viruses?Should someone with a compromised immune system due to rheumatoid arthritis get the flu vaccine, especially during the COVID-19 crisis? Also, does the flu vaccine in South Africa use live or dead viruses?",
-        "Doctor:In brief:   Flu vaccine   Any flu vaccine will cause your immune system to respond.  I advise,if your decision is to be vaccinated,to do it over a period of 6 weeks..I like a little bit on day 1 ,then more 2 weeks later and more two weeks later still.That way you get the full killed vaccine ,and your body develops an immune response with its ability still intact to fight Covid 19 if necessary.  Would you like to video or text chat with me?"
+        "Doctor:Flu vaccine   Any flu vaccine will cause your immune system to respond.  I advise,if your decision is to be vaccinated,to do it over a period of 6 weeks..I like a little bit on day 1 ,then more 2 weeks later and more two weeks later still.That way you get the full killed vaccine ,and your body develops an immune response with its ability still intact to fight Covid 19 if necessary.  Would you like to video or text chat with me?"
     ],
     [
         "Patient:My wife just found out that she sat next to someone on Tuesday who is being tested for the Coronavirus. Person is being tested as his wife was tested positive. Please advise next steps.My wife just found out that she sat next to someone on Tuesday who is being tested for the Coronavirus. Person is being tested as his wife was tested positive. Please advise next steps.",
@@ -855,11 +855,11 @@
     ],
     [
         "Patient:My 8 year old and 6 year old woke up yesterday with a bad cough, I've been giving them cough medication, Allergex and they are wearing the face masks in the house. Please advise how can I get them tested for Covid19?My 8 year old and 6 year old woke up yesterday with a bad cough, I've been giving them cough medication, Allergex and they are wearing the face masks in the house. Please advise how can I get them tested for Covid19?",
-        "Doctor:In brief:   No testing now   YOur children are going to be fine, there have not been any children that have required drastic measures.   MAke sure you stay 2 m away and wash hands and surfaces, disinfect surfaces constantly. Ask questions on here, we are here buy you need to stay home right now.   Would you like to video or text chat with me?"
+        "Doctor:No testing now   YOur children are going to be fine, there have not been any children that have required drastic measures.   MAke sure you stay 2 m away and wash hands and surfaces, disinfect surfaces constantly. Ask questions on here, we are here buy you need to stay home right now.   Would you like to video or text chat with me?"
     ],
     [
         "Patient:My Directors have asked me to take a COVID-19 test. But I am not sure if I just have a common cold or if I really need the test. I am monitoring my temperature which has been stable at around 37.3 or so.  I need some advice please?My Directors have asked me to take a COVID-19 test. But I am not sure if I just have a common cold or if I really need the test. I am monitoring my temperature which has been stable at around 37.3 or so.  I need some advice please?",
-        "Doctor:In brief:   If you meet criteria   You should test if you meet the criteria for testing, which currently states that you should have symptoms (cough/fever/shortness of breath/sore throat) PLUS contact with a confirmed or suspected case of Covid-19.    If you do not have a contact, then best would be to isolate yourself (which you will be doing on lockdown anyway).  Would you like to video or text chat with me?"
+        "Doctor:If you meet criteria   You should test if you meet the criteria for testing, which currently states that you should have symptoms (cough/fever/shortness of breath/sore throat) PLUS contact with a confirmed or suspected case of Covid-19.    If you do not have a contact, then best would be to isolate yourself (which you will be doing on lockdown anyway).  Would you like to video or text chat with me?"
     ],
     [
         "Patient:Hi have been having a mild fever since the 15 of March, with a strange sensation in the Throat, fever went away on the 17, but came back yesterday on the 25 March, mild, no short of breath just a slight headache, must I test for COVID19?Hi have been having a mild fever since the 15 of March, with a strange sensation in the Throat, fever went away on the 17, but came back yesterday on the 25 March, mild, no short of breath just a slight headache, must I test for COVID19?",
@@ -867,7 +867,7 @@
     ],
     [
         "Patient:Just wanted to check I had a meeting with someone who had recently been back from Australia, is Australia a high risk country?Just wanted to check I had a meeting with someone who had recently been back from Australia, is Australia a high risk country?",
-        "Doctor:In brief:   Travel is a risk   Any travel is a risk, that is how this has spread so yes I would advise you telephonically consult with a doctor and see what they advise is best right now.   But locking down requires all of us to stay put to stop transmission. I mean international travel is a risk to get covid and from international folk, especially recently. Travel right now to expose yourself and others is also a risk.  Would you like to video or text chat with me?"
+        "Doctor:Travel is a risk   Any travel is a risk, that is how this has spread so yes I would advise you telephonically consult with a doctor and see what they advise is best right now.   But locking down requires all of us to stay put to stop transmission. I mean international travel is a risk to get covid and from international folk, especially recently. Travel right now to expose yourself and others is also a risk.  Would you like to video or text chat with me?"
     ],
     [
         "Patient:I would like to enquire is my symptoms are related to covid 19 before going to a testing centre.?I would like to enquire is my symptoms are related to covid 19 before going to a testing centre.?",
@@ -875,7 +875,7 @@
     ],
     [
         "Patient:What will happen after the incubation period for covid 19?What will happen after the incubation period for covid 19?",
-        "Doctor:In brief:   Symptoms   If you are infected, symptoms will emerge: tiredness, dry cough, fever worsening over 5-14 days.  You will also become more infective so self-isolation and good hygiene are vital.Only be concerned about COVID-19 if: - You have been in contact with someone with a conformed diagnosis of COVID-19 - You have visited a high risk area - Symptoms worsen and include persistent fever and dry cough  Would you like to video or text chat with me?"
+        "Doctor:Symptoms   If you are infected, symptoms will emerge: tiredness, dry cough, fever worsening over 5-14 days.  You will also become more infective so self-isolation and good hygiene are vital.Only be concerned about COVID-19 if: - You have been in contact with someone with a conformed diagnosis of COVID-19 - You have visited a high risk area - Symptoms worsen and include persistent fever and dry cough  Would you like to video or text chat with me?"
     ],
     [
         "Patient:Hi, I'm on Plasmaquine and Methotrexate 7.5mg x 1 per week for arthritis. I'm concerned that the Methotrexate may weaken my immune system and make me more vulnerable to Covid-19. Would it not be safer to discontinue use untill the threat has passed?Hi, I'm on Plasmaquine and Methotrexate 7.5mg x 1 per week for arthritis. I'm concerned that the Methotrexate may weaken my immune system and make me more vulnerable to Covid-19. Would it not be safer to discontinue use untill the threat has passed?",
@@ -895,7 +895,7 @@
     ],
     [
         "Patient:Coronavirus how do we test?Coronavirus how do we test?",
-        "Doctor:In brief:   Lab if necessary   Most commercial labs such as Lancet, Ampath and Pathcare can test.   But the labs are stretched and test kits in short supply. Only tests if:You have symptoms that are not resolvingYou have been in contact with someone diagnosed with COVID-19You have traveled from a high risk area  Would you like to video or text chat with me?"
+        "Doctor:Lab if necessary   Most commercial labs such as Lancet, Ampath and Pathcare can test.   But the labs are stretched and test kits in short supply. Only tests if:You have symptoms that are not resolvingYou have been in contact with someone diagnosed with COVID-19You have traveled from a high risk area  Would you like to video or text chat with me?"
     ],
     [
         "Patient:My 2 year old has a small fever and is vomiting. I'm worried about her. Are these symptoms of the Coronavirus?My 2 year old has a small fever and is vomiting. I'm worried about her. Are these symptoms of the Coronavirus?",
@@ -903,11 +903,11 @@
     ],
     [
         "Patient:Good day. This morning I coughed for the very first time in a long time. With the corona virus around I feel the need to report this. I coughed for about 5 min. I have no fever, not tired and chest feels weird. What should I do?Good day. This morning I coughed for the very first time in a long time. With the corona virus around I feel the need to report this. I coughed for about 5 min. I have no fever, not tired and chest feels weird. What should I do?",
-        "Doctor:In brief:   Best to stay home   Right now stay home, consult here.   Disinfect everything and stay safe. We are here to answer your questions.  Would you like to video or text chat with me?"
+        "Doctor:Best to stay home   Right now stay home, consult here.   Disinfect everything and stay safe. We are here to answer your questions.  Would you like to video or text chat with me?"
     ],
     [
         "Patient:Hi. I'm suffering with a tight chest and a slight sore throat from the beginning of the week. My symptoms are getting slightly worse as now I am getting a slight fever and body aches. I also feel nauseous at times. Could you please advise?Hi. I'm suffering with a tight chest and a slight sore throat from the beginning of the week. My symptoms are getting slightly worse as now I am getting a slight fever and body aches. I also feel nauseous at times. Could you please advise?",
-        "Doctor:In brief:   Viral respiratory    You likely have a viral respiratory tract infection.   Manage with paracetamol and gargle with salt water or Disprin. Everyone is concerned about Corona virus. This is unlikely unless you have been in contact with someone who has been diagnosed or has traveled from a high risk area. In any event, isolate yourself from others, stay at home and adopt strict hygiene measures: hand washing, alcohol use  Would you like to video or text chat with me?"
+        "Doctor:Viral respiratory    You likely have a viral respiratory tract infection.   Manage with paracetamol and gargle with salt water or Disprin. Everyone is concerned about Corona virus. This is unlikely unless you have been in contact with someone who has been diagnosed or has traveled from a high risk area. In any event, isolate yourself from others, stay at home and adopt strict hygiene measures: hand washing, alcohol use  Would you like to video or text chat with me?"
     ],
     [
         "Patient:If I live in close quarters with people who have recently traveled from Europe, should I stay away from them in order to lower the risk of catching coronavirus?If I live in close quarters with people who have recently traveled from Europe, should I stay away from them in order to lower the risk of catching coronavirus?",
@@ -931,15 +931,15 @@
     ],
     [
         "Patient:I have a sore throat and I’m tired. I haven’t slept well in the last two days. Just haven’t been able to rest tossing and turning thinking - stress. Should I assume sore throats is associated with the coronavirus . Sore throat started today.I have a sore throat and I’m tired. I haven’t slept well in the last two days. Just haven’t been able to rest tossing and turning thinking - stress. Should I assume sore throats is associated with the coronavirus . Sore throat started today.",
-        "Doctor:In brief:   Call Dr. by video   Throat pain can be from a strep throat infection (antibiotics needed), a cold or influenza (antibiotics usually not used), or from some other cause such as allergies or irritants.   Usually, a person sees the doctor (call first) if the sore throat is bothersome, recurrent, or doesn't go away quickly. COVID-19 infections tend to have cough, whereas strep usually lacks cough but has more throat pain.  Would you like to video or text chat with me?"
+        "Doctor:Call Dr. by video   Throat pain can be from a strep throat infection (antibiotics needed), a cold or influenza (antibiotics usually not used), or from some other cause such as allergies or irritants.   Usually, a person sees the doctor (call first) if the sore throat is bothersome, recurrent, or doesn't go away quickly. COVID-19 infections tend to have cough, whereas strep usually lacks cough but has more throat pain.  Would you like to video or text chat with me?"
     ],
     [
         "Patient:Having type 1 diabetes, doesn’t mean you have low immunity does it? So what is it about it, that makes us more at risk with the virus?Having type 1 diabetes, doesn’t mean you have low immunity does it? So what is it about it, that makes us more at risk with the virus?",
-        "Doctor:In brief:   Diabetes   Type 1 diabetes may be an autoimmune disorder, but if well controlled one's immunity and ability to handle infections should be ok.   Poorly controlled diabetics, especially with complications of kidney disease and vascular disorders, degrees of dehydration and poor tissue status are at risk for infections partly because the skin barrier to pathogens is impaired. In my experience most type 1's do ok  Would you like to video or text chat with me?"
+        "Doctor:Diabetes   Type 1 diabetes may be an autoimmune disorder, but if well controlled one's immunity and ability to handle infections should be ok.   Poorly controlled diabetics, especially with complications of kidney disease and vascular disorders, degrees of dehydration and poor tissue status are at risk for infections partly because the skin barrier to pathogens is impaired. In my experience most type 1's do ok  Would you like to video or text chat with me?"
     ],
     [
         "Patient:I have SLE and am currently on 5 day course of dexamethasone 8 mg daily. I still have to work during coronavirus outbreak.   How concerned of risk am I?  I work in close quarters. Desks are a couple of feet apart. I am not able to work from home.I have SLE and am currently on 5 day course of dexamethasone 8 mg daily. I still have to work during coronavirus outbreak.   How concerned of risk am I?  I work in close quarters. Desks are a couple of feet apart. I am not able to work from home.",
-        "Doctor:In brief:   Request a mask   Avoid contact with others, request a mask and ask those around you to wear a mask.   A desk more than 6 feet away from others is another measure of safety. Use good hand washing and keep surfaces, including your phone and computer clean. Continue your steroids as prescribed.   Would you like to video or text chat with me?"
+        "Doctor:Request a mask   Avoid contact with others, request a mask and ask those around you to wear a mask.   A desk more than 6 feet away from others is another measure of safety. Use good hand washing and keep surfaces, including your phone and computer clean. Continue your steroids as prescribed.   Would you like to video or text chat with me?"
     ],
     [
         "Patient:I have a 3 yr old. Started coughing 2 nights ago not constant sounds kinda phlyemy and no other symptoms. Very low grade fever at night. Contagious?I have a 3 yr old. Started coughing 2 nights ago not constant sounds kinda phlyemy and no other symptoms. Very low grade fever at night. Contagious?",
@@ -947,11 +947,11 @@
     ],
     [
         "Patient:How soon after being infected can someone transmit COVID-19?How soon after being infected can someone transmit COVID-19?",
-        "Doctor:In brief:   Infection   Looking at the data people that have the virus can spread it.   There are cases of viral spread that have been linked from sign of having virus to up to 10 to 14 days prior. Probably within days of infection your are a problem.   Would you like to video or text chat with me?"
+        "Doctor:Infection   Looking at the data people that have the virus can spread it.   There are cases of viral spread that have been linked from sign of having virus to up to 10 to 14 days prior. Probably within days of infection your are a problem.   Would you like to video or text chat with me?"
     ],
     [
         "Patient:I was in contact with someone that tested positive for Covid. My last contact was the 16th  The 18th he started to feel bad, informed me and I isolated from the rest of my family Today is the 25th and none of us have symptoms. Should I stay isolated?I was in contact with someone that tested positive for Covid. My last contact was the 16th  The 18th he started to feel bad, informed me and I isolated from the rest of my family Today is the 25th and none of us have symptoms. Should I stay isolated?",
-        "Doctor:In brief:   Minimal outside time   To avoid spread of COVID-19, use precautions such as staying home as much as possible Avoid contact with others until the infection rate begins to decline.   Monitor your temperature, rest and drink fluids. On day 7 post contact if you have no symptoms, most likely you are fine. Continue to use good hand washing and keep surfaces clean.  Would you like to video or text chat with me?"
+        "Doctor:Minimal outside time   To avoid spread of COVID-19, use precautions such as staying home as much as possible Avoid contact with others until the infection rate begins to decline.   Monitor your temperature, rest and drink fluids. On day 7 post contact if you have no symptoms, most likely you are fine. Continue to use good hand washing and keep surfaces clean.  Would you like to video or text chat with me?"
     ],
     [
         "Patient:If I leave Covid 19 infected product in fridge, will virus die or survive in the fridge?If I leave Covid 19 infected product in fridge, will virus die or survive in the fridge?",
@@ -959,7 +959,7 @@
     ],
     [
         "Patient:What are low and high temperatures at which Covid 19 virus cannot survive?What are low and high temperatures at which Covid 19 virus cannot survive?",
-        "Doctor:In brief:   Not as fragile   as one might hope.       -80 C does not kill it                                        +56 C does kill it  Would you like to video or text chat with me?"
+        "Doctor:Not as fragile   as one might hope.       -80 C does not kill it                                        +56 C does kill it  Would you like to video or text chat with me?"
     ],
     [
         "Patient:I hear covid 19 virus dies around 27C. Does it mean once temperature outside rises above 27 C all covid 19 viruses outside will be dead?I hear covid 19 virus dies around 27C. Does it mean once temperature outside rises above 27 C all covid 19 viruses outside will be dead?",
@@ -971,7 +971,7 @@
     ],
     [
         "Patient:Can we use Disprin or Compral pils when we have Corona. They dont contain ibuprophen?Can we use Disprin or Compral pils when we have Corona. They dont contain ibuprophen?",
-        "Doctor:In brief:   Yes you can,depends.   Corona Virus treatment so far is symptomatic and supportive.    It really depends what you treat with Disprin/Compral.You are they do not have Ibuprofen.  Would you like to video or text chat with me?"
+        "Doctor:Yes you can,depends.   Corona Virus treatment so far is symptomatic and supportive.    It really depends what you treat with Disprin/Compral.You are they do not have Ibuprofen.  Would you like to video or text chat with me?"
     ],
     [
         "Patient:I’m absolutely worried sick about getting coronavirus and what it would mean for me if I got it, because of my diabetes. Is there anything you can say that can help me in any way? My anxiety is so high. Thank you.I’m absolutely worried sick about getting coronavirus and what it would mean for me if I got it, because of my diabetes. Is there anything you can say that can help me in any way? My anxiety is so high. Thank you.",
@@ -979,7 +979,7 @@
     ],
     [
         "Patient:2 days ago I started experiencing fatigue and random body pains, mostly below the ribs and body temp was high as I was sweating and feeling cold. GP give me flue medication and advice against testing for Corona. Should I insist on testing for Corona?2 days ago I started experiencing fatigue and random body pains, mostly below the ribs and body temp was high as I was sweating and feeling cold. GP give me flue medication and advice against testing for Corona. Should I insist on testing for Corona?",
-        "Doctor:In brief:   No,you shouldnt.   Unless you have a history of international travel recently or were in contact with someone who has tested positive for Corona Virsu.  Would you like to video or text chat with me?"
+        "Doctor:No,you shouldnt.   Unless you have a history of international travel recently or were in contact with someone who has tested positive for Corona Virsu.  Would you like to video or text chat with me?"
     ],
     [
         "Patient:On the night of 23rd March I started experiencing soar throat and little bit nose block. I visited GP yesterday and was given flue medication. GP advised against Corona testing since my temp was normal. Should I be concern about the Corona virus?On the night of 23rd March I started experiencing soar throat and little bit nose block. I visited GP yesterday and was given flue medication. GP advised against Corona testing since my temp was normal. Should I be concern about the Corona virus?",
@@ -987,15 +987,15 @@
     ],
     [
         "Patient:My 18 month old woke up from her nap this afternoon sounding hoarse. Is this reason for alarm given the current Corona situation?My 18 month old woke up from her nap this afternoon sounding hoarse. Is this reason for alarm given the current Corona situation?",
-        "Doctor:In brief:   No    Kids are very resilient and the best fighters of this.   Stay home and stay safe. People spread this virus. Your baby will be fine, I don't think hoarseness is corona at all :) keep asking questions as you need to  Would you like to video or text chat with me?"
+        "Doctor:No    Kids are very resilient and the best fighters of this.   Stay home and stay safe. People spread this virus. Your baby will be fine, I don't think hoarseness is corona at all :) keep asking questions as you need to  Would you like to video or text chat with me?"
     ],
     [
         "Patient:Buen día doctor (a) tengo una duda :si dos hombres homosexuales tienen relaciones sexuales sin protección pero estos tienen una relación mutuamente monogama y ninguno de las dos personas está infectado de VIH¿Pueden contraer VIH?Buen día doctor (a) tengo una duda :si dos hombres homosexuales tienen relaciones sexuales sin protección pero estos tienen una relación mutuamente monogama y ninguno de las dos personas está infectado de VIH¿Pueden contraer VIH?",
-        "Doctor:In brief:   TRANSMISIÓN VIH   Solamente ciertos líquidos corporales —la sangre, el semen, el líquido preseminal, las secreciones rectales etc — de una persona que tiene el VIH pueden transmitir el virus.    Si ambos tienen la certeza con una prueba confirmatoria de que no están infectados y son monogamos no tienen por qué contraerlo. Sin embargo tener relaciones sexuales sin protección pueden contraer otro ETS  Would you like to video or text chat with me?"
+        "Doctor:TRANSMISIÓN VIH   Solamente ciertos líquidos corporales —la sangre, el semen, el líquido preseminal, las secreciones rectales etc — de una persona que tiene el VIH pueden transmitir el virus.    Si ambos tienen la certeza con una prueba confirmatoria de que no están infectados y son monogamos no tienen por qué contraerlo. Sin embargo tener relaciones sexuales sin protección pueden contraer otro ETS  Would you like to video or text chat with me?"
     ],
     [
         "Patient:I have a throat problem and headache. What should I do. I strepsils original.I have a throat problem and headache. What should I do. I strepsils original.",
-        "Doctor:In brief:   May call Dr on video   Throat symptoms can be from strep throat infection (antibiotics needed), a cold or influenza (antibiotics usually not used), or from some other cause such as allergies or irritants.   Usually, a person sees a doctor (call first) if the throat issue is bothersome, recurrent, or doesn't go away quickly. COVID-19 infections tend to have cough, whereas strep usually lacks cough but has more throat pain.  Would you like to video or text chat with me?"
+        "Doctor:May call Dr on video   Throat symptoms can be from strep throat infection (antibiotics needed), a cold or influenza (antibiotics usually not used), or from some other cause such as allergies or irritants.   Usually, a person sees a doctor (call first) if the throat issue is bothersome, recurrent, or doesn't go away quickly. COVID-19 infections tend to have cough, whereas strep usually lacks cough but has more throat pain.  Would you like to video or text chat with me?"
     ],
     [
         "Patient:What is my risk of dying from coronavirus, as I have type 1 diabetes?What is my risk of dying from coronavirus, as I have type 1 diabetes?",
@@ -1003,7 +1003,7 @@
     ],
     [
         "Patient:I have been exposed to someone with corona in the last week and a half on a daily basis. What steps do i need to take going forward? Should I get tested immediately?I have been exposed to someone with corona in the last week and a half on a daily basis. What steps do i need to take going forward? Should I get tested immediately?",
-        "Doctor:In brief:   Yes   My opinion is yes, but the criteria for testing is quite stringent right now.   Perhaps telephonically consult your doctor if possible to discuss more fully. My opinion would be to access testing.  Would you like to video or text chat with me?"
+        "Doctor:Yes   My opinion is yes, but the criteria for testing is quite stringent right now.   Perhaps telephonically consult your doctor if possible to discuss more fully. My opinion would be to access testing.  Would you like to video or text chat with me?"
     ],
     [
         "Patient:I am an Ashmatic and are using my medication, my chest is tight and throught is a little bit sore, I can feel my lungs are also getting sore, when do I need to go to a doctor now with COVID 19?I am an Ashmatic and are using my medication, my chest is tight and throught is a little bit sore, I can feel my lungs are also getting sore, when do I need to go to a doctor now with COVID 19?",
@@ -1019,11 +1019,11 @@
     ],
     [
         "Patient:Hi  I am a doctor working in a state hospital.  I have malaise, headache and a sore throat now for a week. My left eye also had conjunctivitis but the other symptoms do not resolve.   There is a covid 19 contact in our estate.   Should I test for it?Hi  I am a doctor working in a state hospital.  I have malaise, headache and a sore throat now for a week. My left eye also had conjunctivitis but the other symptoms do not resolve.   There is a covid 19 contact in our estate.   Should I test for it?",
-        "Doctor:In brief:   HArd to say   If you have access to a telephonic consult then rather do that to start.   If you have access to testing you can do that. Do you have to work at the moment? I would discuss it with your consultant.  Would you like to video or text chat with me?"
+        "Doctor:HArd to say   If you have access to a telephonic consult then rather do that to start.   If you have access to testing you can do that. Do you have to work at the moment? I would discuss it with your consultant.  Would you like to video or text chat with me?"
     ],
     [
         "Patient:I am a 20/F. Went to the dentist & had a root canal. I also had a abscess  was put on Purmycin & Adco-metrondaz. They made me  nauseous. Today was the last day of the medications and I didn't take it as I havea fever of 38.3. Is it the medication?I am a 20/F. Went to the dentist & had a root canal. I also had a abscess  was put on Purmycin & Adco-metrondaz. They made me  nauseous. Today was the last day of the medications and I didn't take it as I havea fever of 38.3. Is it the medication?",
-        "Doctor:In brief:   Fever   Antibiotics are supposed to prevent fevers, not cause them. If, however, you are having an allergic reaction to the medication it can cause a fever. But so can viral diseases (common cold, Flu, Covid-19, etc.  ) that are not treatable with antibiotics that are designed to treat bacterial infections. Call your General Physician and report your symptoms.  Would you like to video or text chat with me?"
+        "Doctor:Fever   Antibiotics are supposed to prevent fevers, not cause them. If, however, you are having an allergic reaction to the medication it can cause a fever. But so can viral diseases (common cold, Flu, Covid-19, etc.  ) that are not treatable with antibiotics that are designed to treat bacterial infections. Call your General Physician and report your symptoms.  Would you like to video or text chat with me?"
     ],
     [
         "Patient:Hey there I have had cold \"symptoms\" for over a week and had a low grade fever last week. For the past two days I have been feeling dizzy. Should I contact my dr? Should I see a dr。Hey there I have had cold \"symptoms\" for over a week and had a low grade fever last week. For the past two days I have been feeling dizzy. Should I contact my dr? Should I see a dr。",
@@ -1039,7 +1039,7 @@
     ],
     [
         "Patient:Headache fever fatigue  Been in contact with someone with coronavirus  Do I need to be concerned ?Headache fever fatigue  Been in contact with someone with coronavirus  Do I need to be concerned ?",
-        "Doctor:In brief:   Test if you can   If you have availability get a telephonic consult and get a test.   Testing capability is stretched right now self quarantine and keep in touch on this forum for now.   Would you like to video or text chat with me?"
+        "Doctor:Test if you can   If you have availability get a telephonic consult and get a test.   Testing capability is stretched right now self quarantine and keep in touch on this forum for now.   Would you like to video or text chat with me?"
     ],
     [
         "Patient:With a bad immunity deficiency, how can I keep as safe as possible from contracting COVID19 in a family household. Work is not an issue but shopping and accepting deliveries is. Also need to take child outsides as home is small, no garden.With a bad immunity deficiency, how can I keep as safe as possible from contracting COVID19 in a family household. Work is not an issue but shopping and accepting deliveries is. Also need to take child outsides as home is small, no garden.",
@@ -1059,11 +1059,11 @@
     ],
     [
         "Patient:I need a referral for testing for COVID19. I have been in very close contact with a positive person. I am a Healthcare practitioner, it was one of my patients. I just flew to EL from CT. So no GP here. ?I need a referral for testing for COVID19. I have been in very close contact with a positive person. I am a Healthcare practitioner, it was one of my patients. I just flew to EL from CT. So no GP here. ?",
-        "Doctor:In brief:   Wrong place to ask   This is the HT public site where volunteer docs primarily in the USA answer health questions.   We do not do referrals/provide notes or prescriptions or any other form of direct service. You need to contact a local provider in your country/location for such needs.  Would you like to video or text chat with me?"
+        "Doctor:Wrong place to ask   This is the HT public site where volunteer docs primarily in the USA answer health questions.   We do not do referrals/provide notes or prescriptions or any other form of direct service. You need to contact a local provider in your country/location for such needs.  Would you like to video or text chat with me?"
     ],
     [
         "Patient:Pharmacy Times, in an article from 2017, states that Singulair could help prevent viral pneumonia with influenza and could prevent the infection of alveolar cells deep in the LRT. Would this hold true with Coronavirus? Thank you and God Bless!Pharmacy Times, in an article from 2017, states that Singulair could help prevent viral pneumonia with influenza and could prevent the infection of alveolar cells deep in the LRT. Would this hold true with Coronavirus? Thank you and God Bless!",
-        "Doctor:In brief:   No. It is not... yet   That new is based in a paper (https://journals.  plos.org/plospathogens/article?id=10.1371/journal.ppat.1006140) which says that inhibition of leukotrienes (which Singulair-Montelukast inhibits) in mice, not humans, had a protection effect against death caused by Influenza A virus pneumonia. Further research is needed to ensure that this works for influenza, and even more for ?SARS-CoV-2.  Would you like to video or text chat with me?"
+        "Doctor:No. It is not... yet   That new is based in a paper (https://journals.  plos.org/plospathogens/article?id=10.1371/journal.ppat.1006140) which says that inhibition of leukotrienes (which Singulair-Montelukast inhibits) in mice, not humans, had a protection effect against death caused by Influenza A virus pneumonia. Further research is needed to ensure that this works for influenza, and even more for ?SARS-CoV-2.  Would you like to video or text chat with me?"
     ],
     [
         "Patient:What should I do if I feel sick, but am not sure if it's coronavirus?What should I do if I feel sick, but am not sure if it's coronavirus?",
@@ -1071,19 +1071,19 @@
     ],
     [
         "Patient:What else besides a mask can I wear to protect myself from catching corona from others?What else besides a mask can I wear to protect myself from catching corona from others?",
-        "Doctor:In brief:   Distance   Staying separated by 6 feet can make a difference!  The following guideline should help!https://www.  healthtap.com/blog/covid-19-care-guidelines/preventing-covid-19  Would you like to video or text chat with me?"
+        "Doctor:Distance   Staying separated by 6 feet can make a difference!  The following guideline should help!https://www.  healthtap.com/blog/covid-19-care-guidelines/preventing-covid-19  Would you like to video or text chat with me?"
     ],
     [
         "Patient:My daughter of 10 has a high fever 39-40 degrees., sore throat and body aches. I have elderly parents living with us and I am concerned about COVID 19. Please advise.My daughter of 10 has a high fever 39-40 degrees., sore throat and body aches. I have elderly parents living with us and I am concerned about COVID 19. Please advise.",
-        "Doctor:In brief:   Isolate sick people   Throat pain can be from a strep throat (antibiotics needed), a cold or influenza, or from some other cause such as allergies or irritants.   Usually, a person sees the doctor (call first) if the sore throat is bothersome, recurrent, or doesn't go away quickly. The flu or COVID-19 usually have cough, fever, body aches; whereas strep is mainly sore throat. Can call doctor by video or phone. (3/25/20)  Would you like to video or text chat with me?"
+        "Doctor:Isolate sick people   Throat pain can be from a strep throat (antibiotics needed), a cold or influenza, or from some other cause such as allergies or irritants.   Usually, a person sees the doctor (call first) if the sore throat is bothersome, recurrent, or doesn't go away quickly. The flu or COVID-19 usually have cough, fever, body aches; whereas strep is mainly sore throat. Can call doctor by video or phone. (3/25/20)  Would you like to video or text chat with me?"
     ],
     [
         "Patient:Intermittent headache for the last week, comes and goes. Also, scratchy throat for about 3 weeks on and off?Intermittent headache for the last week, comes and goes. Also, scratchy throat for about 3 weeks on and off?",
-        "Doctor:In brief:   Doctor can examine   Throat symptoms can be from a strep throat infection (antibiotics are needed), a cold or influenza, or from some other cause such as allergies, irritants, or acid reflux.   Usually, one sees the doctor if the sore throat is bothersome, recurrent, or doesn't go quickly (mainly to check for strep throat). During this COVID-19 pandemic, doctors want patients to call by video or phone first. (3/25/20)  Would you like to video or text chat with me?"
+        "Doctor:Doctor can examine   Throat symptoms can be from a strep throat infection (antibiotics are needed), a cold or influenza, or from some other cause such as allergies, irritants, or acid reflux.   Usually, one sees the doctor if the sore throat is bothersome, recurrent, or doesn't go quickly (mainly to check for strep throat). During this COVID-19 pandemic, doctors want patients to call by video or phone first. (3/25/20)  Would you like to video or text chat with me?"
     ],
     [
         "Patient:Hi.   What medication can I take for sinus and headaches during this time of the virus?  Thank you.Hi.   What medication can I take for sinus and headaches during this time of the virus?  Thank you.",
-        "Doctor:In brief:   Same as usual   During this COVID-19 pandemic, the other infections like colds, flus, and sinus infections can still happen.   The over-the-counter treatments have not changed. COVID-19 virus is so new that there has not been much verified research yet, so stick with what meds worked in the past. See the blog post..."
+        "Doctor:Same as usual   During this COVID-19 pandemic, the other infections like colds, flus, and sinus infections can still happen.   The over-the-counter treatments have not changed. COVID-19 virus is so new that there has not been much verified research yet, so stick with what meds worked in the past. See the blog post..."
     ],
     [
         "Patient:Wanted to find out whether I should get tested for Covid 19. Had a slight fever last week Wednesday, slight dry cough and extra phlegmy. Symptoms are inconsistent though. I use the gautrain to get to work, was concerned that I could've been exposed.Wanted to find out whether I should get tested for Covid 19. Had a slight fever last week Wednesday, slight dry cough and extra phlegmy. Symptoms are inconsistent though. I use the gautrain to get to work, was concerned that I could've been exposed.",
@@ -1091,19 +1091,19 @@
     ],
     [
         "Patient:Is it true that if there was a lack of beds due to the virus, doctors would be less likely to save someone with diabetes, because they would be more likely to die??Is it true that if there was a lack of beds due to the virus, doctors would be less likely to save someone with diabetes, because they would be more likely to die??",
-        "Doctor:In brief:   If you are dying   Everything is in motion and medical decisions are fluid, so you won't know until it happens.   That's because a healthy person under 50 won't die (has maybe half a percent chance of dying) from COVID-19, but a guy aged 70-80 has a 7-8% chance of dying from this... about the same as a non-elderly diabetic. That means the old guy and the diabetic both have about a 92-93% chance of NOT dying. (3/25/20)  Would you like to video or text chat with me?"
+        "Doctor:If you are dying   Everything is in motion and medical decisions are fluid, so you won't know until it happens.   That's because a healthy person under 50 won't die (has maybe half a percent chance of dying) from COVID-19, but a guy aged 70-80 has a 7-8% chance of dying from this... about the same as a non-elderly diabetic. That means the old guy and the diabetic both have about a 92-93% chance of NOT dying. (3/25/20)  Would you like to video or text chat with me?"
     ],
     [
         "Patient:When is it justified to isolate (not talking about the lock down) for COVID-19? Which symptoms justifies it?When is it justified to isolate (not talking about the lock down) for COVID-19? Which symptoms justifies it?",
-        "Doctor:In brief:   Any contagiousness   A person with any signs of respiratory infection or gastrointestinal infection should be isolated to prevent spread of his infection.   Allergies can cause symptoms similar to infection symptoms, which means a person with allergy symptoms at this pandemic time should also be isolated. Note that if every person is isolated for 3-4 weeks, the pandemic stops because virus transmission stops.  (3/25/20)  Would you like to video or text chat with me?"
+        "Doctor:Any contagiousness   A person with any signs of respiratory infection or gastrointestinal infection should be isolated to prevent spread of his infection.   Allergies can cause symptoms similar to infection symptoms, which means a person with allergy symptoms at this pandemic time should also be isolated. Note that if every person is isolated for 3-4 weeks, the pandemic stops because virus transmission stops.  (3/25/20)  Would you like to video or text chat with me?"
     ],
     [
         "Patient:Will my  mask from Sherwin Williams paint store with filters protect me from corona virus along with paint fumes?Will my  mask from Sherwin Williams paint store with filters protect me from corona virus along with paint fumes?",
-        "Doctor:In brief:   Maybe   Such a mask helps protect others from any respiratory material you exhale or cough but does not filter out the virus.   Only high end medical & industrial masks (P95/N95)would filter that. Your best protection is frequent hand washing and not touching your face/mouth/nose with contaminated fingers.,  Would you like to video or text chat with me?"
+        "Doctor:Maybe   Such a mask helps protect others from any respiratory material you exhale or cough but does not filter out the virus.   Only high end medical & industrial masks (P95/N95)would filter that. Your best protection is frequent hand washing and not touching your face/mouth/nose with contaminated fingers.,  Would you like to video or text chat with me?"
     ],
     [
         "Patient:Sore throat, ear ache, headache and a light cough. Do I need to worry?Sore throat, ear ache, headache and a light cough. Do I need to worry?",
-        "Doctor:In brief:   Symptoms   Sore throat less associated with Covid.     Possibilities include strep, flu, covid or other virus.   The following guide should help:https://www.healthtap.com/blog/covid-19-care-guidelines/preventing-covid-19  Would you like to video or text chat with me?"
+        "Doctor:Symptoms   Sore throat less associated with Covid.     Possibilities include strep, flu, covid or other virus.   The following guide should help:https://www.healthtap.com/blog/covid-19-care-guidelines/preventing-covid-19  Would you like to video or text chat with me?"
     ],
     [
         "Patient:Is there a chance I would just get mild symptoms of the virus? Or because I am diabetic, that is unlikely?Is there a chance I would just get mild symptoms of the virus? Or because I am diabetic, that is unlikely?",
@@ -1111,7 +1111,7 @@
     ],
     [
         "Patient:Will I have to be hospitalised if I get the virus, I have type 1 diabetes.Will I have to be hospitalised if I get the virus, I have type 1 diabetes.",
-        "Doctor:In brief:   Maybe/not   They estimate as many as 80% of those testing positive in the under 40 age group have minor or no symptoms.   Having a non respiratory chronic illness does not increase your risk substantially.  Would you like to video or text chat with me?"
+        "Doctor:Maybe/not   They estimate as many as 80% of those testing positive in the under 40 age group have minor or no symptoms.   Having a non respiratory chronic illness does not increase your risk substantially.  Would you like to video or text chat with me?"
     ],
     [
         "Patient:I am experiencing a sore throat, fever, headache and coughing. I have a bit of a runny nose, short breath but only from time to time. I have traveled on THE MCS Cruise to Mozambique 13-16 March 2020. I think it might be necessary to do a COVID-19?I am experiencing a sore throat, fever, headache and coughing. I have a bit of a runny nose, short breath but only from time to time. I have traveled on THE MCS Cruise to Mozambique 13-16 March 2020. I think it might be necessary to do a COVID-19?",
@@ -1127,7 +1127,7 @@
     ],
     [
         "Patient:I have a dizzy head and some phlegm. Need to check against Covid symptoms please?I have a dizzy head and some phlegm. Need to check against Covid symptoms please?",
-        "Doctor:In brief:   Check online   There are many resources online about the symptoms of COVID-19.   The most important questions relate to travel history and the symptoms you are experiencing. If you suspect that you may have COVID-19, self-isolate as soon as possible and call your local doctor or testing site. You can also check out https://www.gov.za/coronavirus/faq or call 0800 029 999   Would you like to video or text chat with me?"
+        "Doctor:Check online   There are many resources online about the symptoms of COVID-19.   The most important questions relate to travel history and the symptoms you are experiencing. If you suspect that you may have COVID-19, self-isolate as soon as possible and call your local doctor or testing site. You can also check out https://www.gov.za/coronavirus/faq or call 0800 029 999   Would you like to video or text chat with me?"
     ],
     [
         "Patient:I have a snotty nose and a bit of a cough, nothing bad, no temperature and do not feel sick in anyway. I am at home can I just continue to use antihistamine until it passes. I have not been in contact with anyone with corona and have not traveled.?I have a snotty nose and a bit of a cough, nothing bad, no temperature and do not feel sick in anyway. I am at home can I just continue to use antihistamine until it passes. I have not been in contact with anyone with corona and have not traveled.?",
@@ -1135,7 +1135,7 @@
     ],
     [
         "Patient:Nasal congestion and feeling a bit fluey ?Nasal congestion and feeling a bit fluey ?",
-        "Doctor:In brief:   Stay home   Hi. If you are concerned about COVID-19, please call the hotline on 0800 029 999, see the FAQs on https://www.  gov.za/coronavirus/faq or https://www.who.int/news-room/q-a-detail/q-a-coronaviruses  Would you like to video or text chat with me?"
+        "Doctor:Stay home   Hi. If you are concerned about COVID-19, please call the hotline on 0800 029 999, see the FAQs on https://www.  gov.za/coronavirus/faq or https://www.who.int/news-room/q-a-detail/q-a-coronaviruses  Would you like to video or text chat with me?"
     ],
     [
         "Patient:How will I know if I need to get tested for COVID 19?How will I know if I need to get tested for COVID 19?",
@@ -1147,11 +1147,11 @@
     ],
     [
         "Patient:To help the community, should anyone returning from any country with cases of nCoV self-quarantine before returning to work?To help the community, should anyone returning from any country with cases of nCoV self-quarantine before returning to work?",
-        "Doctor:In brief:   Odd comment   Since all countries have reported cases of Covid-19 the question is a bit inconsistent with current fact.   Any and all people should self quarantine if they had a known exposure in any setting. I would not consider anyone traveling from all areas either exposed or a risk to others. The hysteria of this idea is worse than the disease.  Would you like to video or text chat with me?"
+        "Doctor:Odd comment   Since all countries have reported cases of Covid-19 the question is a bit inconsistent with current fact.   Any and all people should self quarantine if they had a known exposure in any setting. I would not consider anyone traveling from all areas either exposed or a risk to others. The hysteria of this idea is worse than the disease.  Would you like to video or text chat with me?"
     ],
     [
         "Patient:Hi I have been have a sore throat for almost a week now, tried gaghling with warm and apple cider vinegar, drank warm water with apple, warm with lemon.  Now I still have a sore throat and burning on my chest?Hi I have been have a sore throat for almost a week now, tried gaghling with warm and apple cider vinegar, drank warm water with apple, warm with lemon.  Now I still have a sore throat and burning on my chest?",
-        "Doctor:In brief:   Can give Dr. a call   Throat pain can be from a strep throat infection (antibiotics needed), a cold or influenza (antibiotics usually not used), or from some other cause such as allergies or irritants.   Usually, a person sees the doctor (call first) if the sore throat is bothersome, recurrent, or doesn't go away quickly. COVID-19 infections tend to have cough, whereas strep usually lacks cough but has more throat pain.  Would you like to video or text chat with me?"
+        "Doctor:Can give Dr. a call   Throat pain can be from a strep throat infection (antibiotics needed), a cold or influenza (antibiotics usually not used), or from some other cause such as allergies or irritants.   Usually, a person sees the doctor (call first) if the sore throat is bothersome, recurrent, or doesn't go away quickly. COVID-19 infections tend to have cough, whereas strep usually lacks cough but has more throat pain.  Would you like to video or text chat with me?"
     ],
     [
         "Patient:If everyone is running low on facemasks, what else can I use to protect myself from the coronavirus?If everyone is running low on facemasks, what else can I use to protect myself from the coronavirus?",
@@ -1159,11 +1159,11 @@
     ],
     [
         "Patient:Preauricular lymph node on left side very tender, scalp on left side of head tender and hurts to touch, superficial parotid lymph node area on left side swollen and tender. Pain behind both ears.No injury.Came on suddenly, has been 1 day.Temp 100.1°。Preauricular lymph node on left side very tender, scalp on left side of head tender and hurts to touch, superficial parotid lymph node area on left side swollen and tender. Pain behind both ears.No injury.Came on suddenly, has been 1 day.Temp 100.1°。",
-        "Doctor:In brief:   Periauricular pain    May be otitis ear infection or mastoiditis infection in the bone behind the ear.  Could call health tap prime  for  video assessment  and antibiotic prescription.   Sometimes you  may need IM or IV antibiotics.  Call Healthtap Prime or MD today ( even with corona ongoing you need treatment for this today).   Would you like to video or text chat with me?"
+        "Doctor:Periauricular pain    May be otitis ear infection or mastoiditis infection in the bone behind the ear.  Could call health tap prime  for  video assessment  and antibiotic prescription.   Sometimes you  may need IM or IV antibiotics.  Call Healthtap Prime or MD today ( even with corona ongoing you need treatment for this today).   Would you like to video or text chat with me?"
     ],
     [
         "Patient:Is it safe to take steroid tab or nasal spray if I have covid-19?Is it safe to take steroid tab or nasal spray if I have covid-19?",
-        "Doctor:In brief:   Nasal rinses   For allergic symptoms, nasal saline and an oral antihistamine are often helpful for controlling symptoms.    Continue to monitor your temperature and report fever and/or shortness of breath to your PCP.  Would you like to video or text chat with me?"
+        "Doctor:Nasal rinses   For allergic symptoms, nasal saline and an oral antihistamine are often helpful for controlling symptoms.    Continue to monitor your temperature and report fever and/or shortness of breath to your PCP.  Would you like to video or text chat with me?"
     ],
     [
         "Patient:Do you think this corona virus stuff will ever go away? I'm tired of being a prisoner in my own home cause of everything getting cancelled, im not working and I cant volunteer cause of a bad knee and cant lift heavy stuff. So when will this be over?Do you think this corona virus stuff will ever go away? I'm tired of being a prisoner in my own home cause of everything getting cancelled, im not working and I cant volunteer cause of a bad knee and cant lift heavy stuff. So when will this be over?",
@@ -1175,7 +1175,7 @@
     ],
     [
         "Patient:Good day  I have unusual sore throat burny sensation in chest area  Body aches, dry cough, Headaches, paranoia,have travelled to Dubai end Jan ?Good day  I have unusual sore throat burny sensation in chest area  Body aches, dry cough, Headaches, paranoia,have travelled to Dubai end Jan ?",
-        "Doctor:In brief:   Covid 19   The incubation period of covid 19 is 2-14 days and you're past that.   However if fever, chills, heavier cough, or breathing difficulties develop, call your MD for instructions. For now, drink adequate fluids, gargle with warm salt water. I recommend also using zinc lozenges and take acetaminophen. Don't infect others regardless of what type of infection you have.  Would you like to video or text chat with me?"
+        "Doctor:Covid 19   The incubation period of covid 19 is 2-14 days and you're past that.   However if fever, chills, heavier cough, or breathing difficulties develop, call your MD for instructions. For now, drink adequate fluids, gargle with warm salt water. I recommend also using zinc lozenges and take acetaminophen. Don't infect others regardless of what type of infection you have.  Would you like to video or text chat with me?"
     ],
     [
         "Patient:I have not traveled. I’ve had a headache and spite cough for about a week now. My throat is getting sore. My chest feels slightly tight but I have no fever?I have not traveled. I’ve had a headache and spite cough for about a week now. My throat is getting sore. My chest feels slightly tight but I have no fever?",
@@ -1183,11 +1183,11 @@
     ],
     [
         "Patient:Hello iam have a very painfull pain in my through since this morning?Hello iam have a very painfull pain in my through since this morning?",
-        "Doctor:In brief:   Common flu   Hello.During the coronavirus outbreak the best thing you can do for yourself, your family and your comunity is to stay home.  Don't go to school or work, stay at home and isolate yourself specially from the elders.Do whatever you do when you have the common cold.Drink a lot of fluids, take Tylenol for the sore throat and please DON'T go to the doctor unless you're feeling shortness of breath  Would you like to video or text chat with me?"
+        "Doctor:Common flu   Hello.During the coronavirus outbreak the best thing you can do for yourself, your family and your comunity is to stay home.  Don't go to school or work, stay at home and isolate yourself specially from the elders.Do whatever you do when you have the common cold.Drink a lot of fluids, take Tylenol for the sore throat and please DON'T go to the doctor unless you're feeling shortness of breath  Would you like to video or text chat with me?"
     ],
     [
         "Patient:Daughter turned 1 yr on 20 March. Fever above 38 deg Celsius in the last couple months we alternated between  5ml Nurofen and 125mg Empaped (paracetamol) suppository every 4 hours till temp broke. Is Nurofen safe now regarding ibuprofen and COVID19?Daughter turned 1 yr on 20 March. Fever above 38 deg Celsius in the last couple months we alternated between  5ml Nurofen and 125mg Empaped (paracetamol) suppository every 4 hours till temp broke. Is Nurofen safe now regarding ibuprofen and COVID19?",
-        "Doctor:In brief:   Basics   Fever is a normal body response when ill that increases circulation & oxygen supply to the tissues so natural healing comes faster.I would never treat minor fevers around 38 nor would I alternate  fever meds.  One or the other would be all I use when needed.  New data supports avoiding all ibuprofen products when corona virus may be present.  Would you like to video or text chat with me?"
+        "Doctor:Basics   Fever is a normal body response when ill that increases circulation & oxygen supply to the tissues so natural healing comes faster.I would never treat minor fevers around 38 nor would I alternate  fever meds.  One or the other would be all I use when needed.  New data supports avoiding all ibuprofen products when corona virus may be present.  Would you like to video or text chat with me?"
     ],
     [
         "Patient:Can having reoccurring strep throat/tonsillitis problems make you more vulnerable to the Coronavirus?Can having reoccurring strep throat/tonsillitis problems make you more vulnerable to the Coronavirus?",
@@ -1207,7 +1207,7 @@
     ],
     [
         "Patient:How do we differentiate between covid and flu? My son started with a very sore throat last night and I can’t seem to get his fever under control Spread through the house very quickly to everyone else。How do we differentiate between covid and flu? My son started with a very sore throat last night and I can’t seem to get his fever under control Spread through the house very quickly to everyone else。",
-        "Doctor:In brief:   Stay home   Do whatever you do with a regular flu.  Drink a lot of fluids, use acetaminophen/paracetamol (tylenol) for the fever and sore throat, eat/drink citrus and please stay home and away from the elders. Follow the recommendation of your local authorities.Only go to medical services if you feel shortness of breath and use masks if you feel sick and need to go out of your house  Would you like to video or text chat with me?"
+        "Doctor:Stay home   Do whatever you do with a regular flu.  Drink a lot of fluids, use acetaminophen/paracetamol (tylenol) for the fever and sore throat, eat/drink citrus and please stay home and away from the elders. Follow the recommendation of your local authorities.Only go to medical services if you feel shortness of breath and use masks if you feel sick and need to go out of your house  Would you like to video or text chat with me?"
     ],
     [
         "Patient:Stayed in hotel Fri night. Heard of pos COVID-19 case later pm. Left hotel & self isolated since Sat. Wasn’t in any contact. Isolated as didn’t know if any staff serving me had been infected. As long as no symptoms - how long must I self-isolate for?Stayed in hotel Fri night. Heard of pos COVID-19 case later pm. Left hotel & self isolated since Sat. Wasn’t in any contact. Isolated as didn’t know if any staff serving me had been infected. As long as no symptoms - how long must I self-isolate for?",
@@ -1235,7 +1235,7 @@
     ],
     [
         "Patient:How do I book a virtual consultation with my doctor for Covid-19?How do I book a virtual consultation with my doctor for Covid-19?",
-        "Doctor:In brief:   Call your doctor   Call your doctor's office for instructions  Would you like to video or text chat with me?"
+        "Doctor:Call your doctor   Call your doctor's office for instructions  Would you like to video or text chat with me?"
     ],
     [
         "Patient:Because I have type 1 diabetes, what is likely to happen to me if I get the coronavirus?Because I have type 1 diabetes, what is likely to happen to me if I get the coronavirus?",
@@ -1247,7 +1247,7 @@
     ],
     [
         "Patient:Are there specific animals or pets more likely to catch corona than others? Which animals should I be staying away from?Are there specific animals or pets more likely to catch corona than others? Which animals should I be staying away from?",
-        "Doctor:In brief:   Limited risk   From my reading the corona virus is limited in the animals it infests to varieties of bats and snakes.   I would not put your dog or cat on such a list.  Would you like to video or text chat with me?"
+        "Doctor:Limited risk   From my reading the corona virus is limited in the animals it infests to varieties of bats and snakes.   I would not put your dog or cat on such a list.  Would you like to video or text chat with me?"
     ],
     [
         "Patient:I have been experiencing flue symptoms for about 7days, symptoms include: productive cough and running nose. Could that be symptoms of corona? My workplace involves working in hospital with patients (children) with respiratory disease and adults.I have been experiencing flue symptoms for about 7days, symptoms include: productive cough and running nose. Could that be symptoms of corona? My workplace involves working in hospital with patients (children) with respiratory disease and adults.",
@@ -1263,19 +1263,19 @@
     ],
     [
         "Patient:I have chest congestion and I feel heavy when I breathe (not sure if I have a fever, don’t really have a cough but my throat is sore). I also know that someone in my office and my boyfriends office have been infected with COVID19. What should I Do?I have chest congestion and I feel heavy when I breathe (not sure if I have a fever, don’t really have a cough but my throat is sore). I also know that someone in my office and my boyfriends office have been infected with COVID19. What should I Do?",
-        "Doctor:In brief:   ? telephonic consult   If you are able, consult telephonically with your GP.   If not, do not go into public places, rather get symptomatic treatment - let someone who is well do this as swiftly as they can. Otherwise continue consulting on this forum. We can help you. If you have access to a test this is the ONLY way to know if you truely have it.   Would you like to video or text chat with me?"
+        "Doctor:? telephonic consult   If you are able, consult telephonically with your GP.   If not, do not go into public places, rather get symptomatic treatment - let someone who is well do this as swiftly as they can. Otherwise continue consulting on this forum. We can help you. If you have access to a test this is the ONLY way to know if you truely have it.   Would you like to video or text chat with me?"
     ],
     [
         "Patient:I have a sore throat and feel very tired. Should I be concerned about COVID-19?I have a sore throat and feel very tired. Should I be concerned about COVID-19?",
-        "Doctor:In brief:   Hard to say   Very hard to say.   Stay home. Stay safe. Get someone to buy you symptomatic medication and feel free to post on here again.  Would you like to video or text chat with me?"
+        "Doctor:Hard to say   Very hard to say.   Stay home. Stay safe. Get someone to buy you symptomatic medication and feel free to post on here again.  Would you like to video or text chat with me?"
     ],
     [
         "Patient:Hi,my sinuses usually act up during seasonal change (like now). My worry is my symptoms resemble that of covid-19. Throat has been a bit irritated, lately nose has been runny. Wanted to know how I could get myself tested as I don’t live alone, thanks?Hi,my sinuses usually act up during seasonal change (like now). My worry is my symptoms resemble that of covid-19. Throat has been a bit irritated, lately nose has been runny. Wanted to know how I could get myself tested as I don’t live alone, thanks?",
-        "Doctor:In brief:   No   If you know you have seasonal allergy treat that.   Get as much medicine as you might need for a month regarding this. If you do not fit criteria (google) then no testing for now. Stay home and stay safe.  Would you like to video or text chat with me?"
+        "Doctor:No   If you know you have seasonal allergy treat that.   Get as much medicine as you might need for a month regarding this. If you do not fit criteria (google) then no testing for now. Stay home and stay safe.  Would you like to video or text chat with me?"
     ],
     [
         "Patient:I've been having the same symptoms as for Corona Virus. I've had them coming along slowly for 1 week now. I haven't had direct contact with someone who has travelled overseas but I'm worried I've had indirect contact. Should I get tested?I've been having the same symptoms as for Corona Virus. I've had them coming along slowly for 1 week now. I haven't had direct contact with someone who has travelled overseas but I'm worried I've had indirect contact. Should I get tested?",
-        "Doctor:In brief:   Corona virus   If you are symptomatic and not SOB you  should not need tested.   Testing in itself does not change the course and at this time and it does not lead to a specific beneficial action. If fever and SOB the testing guides inpatient therapy. Follow the following guidelines:https://www.healthtap.com/blog/covid-19-care-guidelines/preventing-covid-19; https://www.healthtap.com/blog/covid-19-care-guidelines  Would you like to video or text chat with me?"
+        "Doctor:Corona virus   If you are symptomatic and not SOB you  should not need tested.   Testing in itself does not change the course and at this time and it does not lead to a specific beneficial action. If fever and SOB the testing guides inpatient therapy. Follow the following guidelines:https://www.healthtap.com/blog/covid-19-care-guidelines/preventing-covid-19; https://www.healthtap.com/blog/covid-19-care-guidelines  Would you like to video or text chat with me?"
     ],
     [
         "Patient:My COPD meds are finishing in the next week and I cant get in to see my pulmologist?My COPD meds are finishing in the next week and I cant get in to see my pulmologist?",
@@ -1283,11 +1283,11 @@
     ],
     [
         "Patient:I have been exposed to someone with covid Do I qualify for a test at a laboratory?I have been exposed to someone with covid Do I qualify for a test at a laboratory?",
-        "Doctor:In brief:   Testing   If asymptomatic testing unlikely to be done.    The following guide should help: https://www.healthtap.com/blog/covid-19-care-guidelines/preventing-covid-19-for-seniors  Would you like to video or text chat with me?"
+        "Doctor:Testing   If asymptomatic testing unlikely to be done.    The following guide should help: https://www.healthtap.com/blog/covid-19-care-guidelines/preventing-covid-19-for-seniors  Would you like to video or text chat with me?"
     ],
     [
         "Patient:Hi there Me and my 7year old have flu like symptoms and have been in contact with someone that arrived from New Zealand with an undiagnosed heavy flu. Should I get tested for COVID-19?Hi there Me and my 7year old have flu like symptoms and have been in contact with someone that arrived from New Zealand with an undiagnosed heavy flu. Should I get tested for COVID-19?",
-        "Doctor:In brief:   Hard to say   New Zealand is definitely lower risk than Europe.   Your best bet is to stay home, with masks on (home made) follow hygiene. If you need more help ask another question here. If you have access to testing you could do it but I think we need the tests for folk who are more ill at this stage. Hope this makes sense.  Would you like to video or text chat with me?"
+        "Doctor:Hard to say   New Zealand is definitely lower risk than Europe.   Your best bet is to stay home, with masks on (home made) follow hygiene. If you need more help ask another question here. If you have access to testing you could do it but I think we need the tests for folk who are more ill at this stage. Hope this makes sense.  Would you like to video or text chat with me?"
     ],
     [
         "Patient:I also have a dry throat sometimes its feels like there is something stuck or putting pressure on my throat?I also have a dry throat sometimes its feels like there is something stuck or putting pressure on my throat?",
@@ -1299,11 +1299,11 @@
     ],
     [
         "Patient:Do I need to get tested for covid-19. Living with a person who returned from Canada 20/03. Dry throat, but do not feel sick?Do I need to get tested for covid-19. Living with a person who returned from Canada 20/03. Dry throat, but do not feel sick?",
-        "Doctor:In brief:   Hard to answer   If not ill assume you have it and behave as if you do, wear a bandanna over nose and mouth and if you have access to testing then do it.   If not stay home and boost immunity.  Would you like to video or text chat with me?"
+        "Doctor:Hard to answer   If not ill assume you have it and behave as if you do, wear a bandanna over nose and mouth and if you have access to testing then do it.   If not stay home and boost immunity.  Would you like to video or text chat with me?"
     ],
     [
         "Patient:Good day. During the lockdown will I be able to travel to my Gynae for my check up?Good day. During the lockdown will I be able to travel to my Gynae for my check up?",
-        "Doctor:In brief:   No.   Most doctors are rescheduling non-essential surgeries, procedures and visits.   You don't want to be in a doctor's office with a bunch of people who may or may not be infected with the Coronavirus.  Would you like to video or text chat with me?"
+        "Doctor:No.   Most doctors are rescheduling non-essential surgeries, procedures and visits.   You don't want to be in a doctor's office with a bunch of people who may or may not be infected with the Coronavirus.  Would you like to video or text chat with me?"
     ],
     [
         "Patient:I'm a healthcare worker, seeing walk-in patients and working in emergency department. I have a severe case of flu-like symptoms but no confirmed contact with known covid patients. Do my symptoms warrant testing or should I risk spreading my disease?I'm a healthcare worker, seeing walk-in patients and working in emergency department. I have a severe case of flu-like symptoms but no confirmed contact with known covid patients. Do my symptoms warrant testing or should I risk spreading my disease?",
@@ -1311,7 +1311,7 @@
     ],
     [
         "Patient:Hello, I would like assistance with managing a ongoing cough that may or may not be linked to Corona virus. A colleague stated their possible exposure to someone who tested positive. The cough started more than a week ago.  ?Hello, I would like assistance with managing a ongoing cough that may or may not be linked to Corona virus. A colleague stated their possible exposure to someone who tested positive. The cough started more than a week ago.  ?",
-        "Doctor:In brief:   Cough/fever?   Please stay at home and avoid contact with others for one more day at least.   If there is a fever, remain at home for at least three days after the fever is gone. At this point, if you are otherwise healthy, cover your cough, monitor your temperature and please stay home.Watch for signs of secondary infection, including fever, worsening cough and shortness of breath.   Would you like to video or text chat with me?"
+        "Doctor:Cough/fever?   Please stay at home and avoid contact with others for one more day at least.   If there is a fever, remain at home for at least three days after the fever is gone. At this point, if you are otherwise healthy, cover your cough, monitor your temperature and please stay home.Watch for signs of secondary infection, including fever, worsening cough and shortness of breath.   Would you like to video or text chat with me?"
     ],
     [
         "Patient:I believe I might have Covid 19 symtoms. It's possible to get testing done at home to confirm? Currently I have soar throat, started last night around 19:30。I believe I might have Covid 19 symtoms. It's possible to get testing done at home to confirm? Currently I have soar throat, started last night around 19:30。",
@@ -1327,7 +1327,7 @@
     ],
     [
         "Patient:How dangerous is coronavirus if someon has heart arrhythmia and is type 2 diabetes?How dangerous is coronavirus if someon has heart arrhythmia and is type 2 diabetes?",
-        "Doctor:In brief:   Concern   Diabetes if controlled well typically should not be an issue.   I realize there are some conflicting information, but I think the evidence shows that if diabetes controled your immune system still reacts appropriately and not an issue. Arrythmia in itself not and issue. Your age is 60 and that starts to be category of concern with 3% mortality rate.  If you do not smoke that is the key.   Would you like to video or text chat with me?"
+        "Doctor:Concern   Diabetes if controlled well typically should not be an issue.   I realize there are some conflicting information, but I think the evidence shows that if diabetes controled your immune system still reacts appropriately and not an issue. Arrythmia in itself not and issue. Your age is 60 and that starts to be category of concern with 3% mortality rate.  If you do not smoke that is the key.   Would you like to video or text chat with me?"
     ],
     [
         "Patient:I came into close contact with someone who just flown back from Australia, I have been in self isolation since he landed, am I'm not showing any symptoms (dry cough, fever, sore throat) what is the next protocol? Do I go into work?I came into close contact with someone who just flown back from Australia, I have been in self isolation since he landed, am I'm not showing any symptoms (dry cough, fever, sore throat) what is the next protocol? Do I go into work?",
@@ -1335,15 +1335,15 @@
     ],
     [
         "Patient:Can an ingrown toenail make your whole foot numb? And if so what can be done at home to stop this from happening? I know a ingrown toenail isn’t a reason to visit a hospital atm with the coronavirus going around.Can an ingrown toenail make your whole foot numb? And if so what can be done at home to stop this from happening? I know a ingrown toenail isn’t a reason to visit a hospital atm with the coronavirus going around.",
-        "Doctor:In brief:   Ingrown toenail   An ingrown toenail can make your foot numb.    I do ER and it is a procedure I will do.  However, many primary providers will do the procedure and podiatrists are a good choice. I do not recommend digging into it at home. However, to prevent future toenail problems do not wear pointed shoes, and let toenails grow to tip of toe and keep at that length.   Would you like to video or text chat with me?"
+        "Doctor:Ingrown toenail   An ingrown toenail can make your foot numb.    I do ER and it is a procedure I will do.  However, many primary providers will do the procedure and podiatrists are a good choice. I do not recommend digging into it at home. However, to prevent future toenail problems do not wear pointed shoes, and let toenails grow to tip of toe and keep at that length.   Would you like to video or text chat with me?"
     ],
     [
         "Patient:I was confirmed to have covid-19, I self-isolated for 14 days. My concern is with my 1 year 6 months son Nabi who has been caughing. ?I was confirmed to have covid-19, I self-isolated for 14 days. My concern is with my 1 year 6 months son Nabi who has been caughing. ?",
-        "Doctor:In brief:   Keep isolated   The baby very likely has the infection.    However, the data are very reassuring on children less than 10 year old.  I am certain there has been no deaths recorded. Treat as you would if the baby had a cold.  Follow the following isolation guidelines:  https://www.healthtap.com/blog/covid-19-care-guidelines/self-quarantine-guide  I think you will find this improving in a few days.   Would you like to video or text chat with me?"
+        "Doctor:Keep isolated   The baby very likely has the infection.    However, the data are very reassuring on children less than 10 year old.  I am certain there has been no deaths recorded. Treat as you would if the baby had a cold.  Follow the following isolation guidelines:  https://www.healthtap.com/blog/covid-19-care-guidelines/self-quarantine-guide  I think you will find this improving in a few days.   Would you like to video or text chat with me?"
     ],
     [
         "Patient:Good Day Doctor. since past week, i am loosing weight.Mid last week it was 62 odd and today when I checked, it is 61.35. Few months back weight was above 64. I am having no other symptoms. I realized this only when my trousers were loose. Thanks.Good Day Doctor. since past week, i am loosing weight.Mid last week it was 62 odd and today when I checked, it is 61.35. Few months back weight was above 64. I am having no other symptoms. I realized this only when my trousers were loose. Thanks.",
-        "Doctor:In brief:   Dont think c   This is a different problem. Dont think it is covid.   Which is good news. What are your other symptoms?  Would you like to video or text chat with me?"
+        "Doctor:Dont think c   This is a different problem. Dont think it is covid.   Which is good news. What are your other symptoms?  Would you like to video or text chat with me?"
     ],
     [
         "Patient:I got an sms stating the following: Taking Ibuprofin/ Advil? Mypaid/ myprodol to control fewer should stop. They also say that ibuprofen is increasing the rate of multiplication of the virus. And that we should not take these meds. How true is this?I got an sms stating the following: Taking Ibuprofin/ Advil? Mypaid/ myprodol to control fewer should stop. They also say that ibuprofen is increasing the rate of multiplication of the virus. And that we should not take these meds. How true is this?",
@@ -1351,7 +1351,7 @@
     ],
     [
         "Patient:I have HASHIMOTOS. Nodules checked by US yearly.  I see a thyroid specialist yearly. I am a PRESCHOOL Teacher Assistant. I still work. I am a 47 yr old female.  What is my RISK LEVEL of getting the virus?I have HASHIMOTOS. Nodules checked by US yearly.  I see a thyroid specialist yearly. I am a PRESCHOOL Teacher Assistant. I still work. I am a 47 yr old female.  What is my RISK LEVEL of getting the virus?",
-        "Doctor:In brief:   Nearly normal   Assuming you are not on any immunosuppresive therapy your risk is normal.   but make sure you do social distancing  Would you like to video or text chat with me?"
+        "Doctor:Nearly normal   Assuming you are not on any immunosuppresive therapy your risk is normal.   but make sure you do social distancing  Would you like to video or text chat with me?"
     ],
     [
         "Patient:I have a slight cough over the last few days but haven't been exposed to people or traveled to covid 19 areas. I have recently quit smoking so could that be it. What should I do?I have a slight cough over the last few days but haven't been exposed to people or traveled to covid 19 areas. I have recently quit smoking so could that be it. What should I do?",
@@ -1359,11 +1359,11 @@
     ],
     [
         "Patient:I have a dry burning sensation in my throat and no fever (temp is 35.6),  I’m 24 weeks pregnant and worried that it may be Covid19, Do I need to have a fever with Covid19? Will my baby be okay?I have a dry burning sensation in my throat and no fever (temp is 35.6),  I’m 24 weeks pregnant and worried that it may be Covid19, Do I need to have a fever with Covid19? Will my baby be okay?",
-        "Doctor:In brief:   Probably not COVID19   early COVID 19 may not have a fever, but usually does by on average 5 days after exposure.  what is your exposure to COVID? that is more important to determine the possibility of developing COVID 19  Would you like to video or text chat with me?"
+        "Doctor:Probably not COVID19   early COVID 19 may not have a fever, but usually does by on average 5 days after exposure.  what is your exposure to COVID? that is more important to determine the possibility of developing COVID 19  Would you like to video or text chat with me?"
     ],
     [
         "Patient:Can the coronavirus leave lung scarring? I thought I heard something about it.Can the coronavirus leave lung scarring? I thought I heard something about it.",
-        "Doctor:In brief:   Yes    like most lung infections there will be changes in the lung structure, probably microscopically and may not be seen on X-rays,  Would you like to video or text chat with me?"
+        "Doctor:Yes    like most lung infections there will be changes in the lung structure, probably microscopically and may not be seen on X-rays,  Would you like to video or text chat with me?"
     ],
     [
         "Patient:Can you contact coronavirus or any virus from the air? Also, from talking to someone from a distance of beyond 6 feet. Any info on airborne facts?Can you contact coronavirus or any virus from the air? Also, from talking to someone from a distance of beyond 6 feet. Any info on airborne facts?",
@@ -1371,11 +1371,11 @@
     ],
     [
         "Patient:I have pure pressures head aches and coughing persistent ?I have pure pressures head aches and coughing persistent ?",
-        "Doctor:In brief:   If it's just from...   If cough and headache are just from a mild cold, then the over-the-counter cold medicines are what people usually try.   However, some illnesses such as strep throat, the flu, or pandemic coronavirus also have these same symptoms, but need evaluation. It is best to contact one's primary care doctor by video or phone first during this pandemic. For emergencies, call the local emergency #).  (3/24/20)  Would you like to video or text chat with me?"
+        "Doctor:If it's just from...   If cough and headache are just from a mild cold, then the over-the-counter cold medicines are what people usually try.   However, some illnesses such as strep throat, the flu, or pandemic coronavirus also have these same symptoms, but need evaluation. It is best to contact one's primary care doctor by video or phone first during this pandemic. For emergencies, call the local emergency #).  (3/24/20)  Would you like to video or text chat with me?"
     ],
     [
         "Patient:Can sinusitis cause white spots on tonsils?Can sinusitis cause white spots on tonsils?",
-        "Doctor:In brief:   Usually does not   Throat symptoms can be from strep throat infection (antibiotics are needed), a cold or other virus (antibiotics usually not used), allergies, irritants, sinusitis, stomach reflux when asleep, etc.  .. One usually sees the doctor if the throat issue is bothersome, recurrent, or doesn't go away quickly. A strep throat swab test can easily diagnose strep throat.  Would you like to video or text chat with me?"
+        "Doctor:Usually does not   Throat symptoms can be from strep throat infection (antibiotics are needed), a cold or other virus (antibiotics usually not used), allergies, irritants, sinusitis, stomach reflux when asleep, etc.  .. One usually sees the doctor if the throat issue is bothersome, recurrent, or doesn't go away quickly. A strep throat swab test can easily diagnose strep throat.  Would you like to video or text chat with me?"
     ],
     [
         "Patient:3yrold having rash. Specially under armpits and his thighs too. He can’t sleep at night due to that. I’ve tried lotion to hydrate. He had minor eczema when born but not too serious what can I do? Don’t want to take him to hospital due to virus!3yrold having rash. Specially under armpits and his thighs too. He can’t sleep at night due to that. I’ve tried lotion to hydrate. He had minor eczema when born but not too serious what can I do? Don’t want to take him to hospital due to virus!",
@@ -1383,15 +1383,15 @@
     ],
     [
         "Patient:Should patients with COVID-19 avoid ibuprofen or RAAS antagonists?Should patients with COVID-19 avoid ibuprofen or RAAS antagonists?",
-        "Doctor:In brief:   COVID-19 and RAAS    No, according to recent statement from American Heart Association, the patients with cardiovascular disease should continue ACEI or ABR as prescribed.   WHO also doesn't recommend avoiding ibuprofen for patients with COVID-19 Symptoms, although the use of acetaminophen could be an alternative option.   Would you like to video or text chat with me?"
+        "Doctor:COVID-19 and RAAS    No, according to recent statement from American Heart Association, the patients with cardiovascular disease should continue ACEI or ABR as prescribed.   WHO also doesn't recommend avoiding ibuprofen for patients with COVID-19 Symptoms, although the use of acetaminophen could be an alternative option.   Would you like to video or text chat with me?"
     ],
     [
         "Patient:Should I invest in a reusable mask to protect myself from COVID-19? I know a lot of people wear those in Asian countries and they look kinda nice.Should I invest in a reusable mask to protect myself from COVID-19? I know a lot of people wear those in Asian countries and they look kinda nice.",
-        "Doctor:In brief:   Barrier protection   Most of these masks won't completely protect you from a virus, which can penetrate these materials however that does not mean they are not useful.   A mask of any sort is good if you are coughing or sneezing to limit some of the aerosols and also is better than nothing if you are out and about in a high risk situation. The chance of you catching the virus is highly dependent on lengthexposure & dos  Would you like to video or text chat with me?"
+        "Doctor:Barrier protection   Most of these masks won't completely protect you from a virus, which can penetrate these materials however that does not mean they are not useful.   A mask of any sort is good if you are coughing or sneezing to limit some of the aerosols and also is better than nothing if you are out and about in a high risk situation. The chance of you catching the virus is highly dependent on lengthexposure & dos  Would you like to video or text chat with me?"
     ],
     [
         "Patient:If I'm not sure if I have allergies or coronavirus (or something else), should I still stay home?If I'm not sure if I have allergies or coronavirus (or something else), should I still stay home?",
-        "Doctor:In brief:   There are   many online resources to help you distinguish between the two.   But, yes it is a good idea to stay home until told otherwise.  Would you like to video or text chat with me?"
+        "Doctor:There are   many online resources to help you distinguish between the two.   But, yes it is a good idea to stay home until told otherwise.  Would you like to video or text chat with me?"
     ],
     [
         "Patient:Daughter is experiencing dry Coughing nasal drip. She was on amoxicillin panamol and Rhineton for ear infection. That was diagnosed last week monday. I need to know if she should go for Corona Virus test as we travelled back from cape town last week.Daughter is experiencing dry Coughing nasal drip. She was on amoxicillin panamol and Rhineton for ear infection. That was diagnosed last week monday. I need to know if she should go for Corona Virus test as we travelled back from cape town last week.",
@@ -1407,15 +1407,15 @@
     ],
     [
         "Patient:I have a 2 years old with cough n fever sweating which is worse at night, can she b tested for covid19?I have a 2 years old with cough n fever sweating which is worse at night, can she b tested for covid19?",
-        "Doctor:In brief:   Yes   call your doctor for advise.  Would you like to video or text chat with me?"
+        "Doctor:Yes   call your doctor for advise.  Would you like to video or text chat with me?"
     ],
     [
         "Patient:I'm finding difficult to maintain precisely 6 ft in grocery stores. Today, as I was leaving, someone entering the store that was (possibly) 3 ft away was coughing lightly and I took a shower when I got home. I'm a hypochondriac. Possible covid-19?I'm finding difficult to maintain precisely 6 ft in grocery stores. Today, as I was leaving, someone entering the store that was (possibly) 3 ft away was coughing lightly and I took a shower when I got home. I'm a hypochondriac. Possible covid-19?",
-        "Doctor:In brief:   It is possible.    You can self quarantin yourself for 2 weeks.   If develop and symptoms especially fever and cough get tested. Since you consider yourself a hypocondriac i suggest to wear an N-95 or surgical mask to prevent similar situations.  Would you like to video or text chat with me?"
+        "Doctor:It is possible.    You can self quarantin yourself for 2 weeks.   If develop and symptoms especially fever and cough get tested. Since you consider yourself a hypocondriac i suggest to wear an N-95 or surgical mask to prevent similar situations.  Would you like to video or text chat with me?"
     ],
     [
         "Patient:I have been coughing and sneezing for the past 2 weeks. Throat really sore past week. Always thirsty. Diarrhea started on Friday night and vomiting since this afternoon. Have a constant fever from Wednesday. ?I have been coughing and sneezing for the past 2 weeks. Throat really sore past week. Always thirsty. Diarrhea started on Friday night and vomiting since this afternoon. Have a constant fever from Wednesday. ?",
-        "Doctor:In brief:   Covid-19   This may be influenza or Covid 19 and warrants a call to your physician to get instructions of whether to be examined,cultured and/or tested for Covid 19 virus, ordered to have a chest xray and/or started, on antibiotics.   A lot depends on whether you're in an endemic area or have been exposed to someone who has the infection or had travelled from an affected region. Gargle,avoid dehydration.  Would you like to video or text chat with me?"
+        "Doctor:Covid-19   This may be influenza or Covid 19 and warrants a call to your physician to get instructions of whether to be examined,cultured and/or tested for Covid 19 virus, ordered to have a chest xray and/or started, on antibiotics.   A lot depends on whether you're in an endemic area or have been exposed to someone who has the infection or had travelled from an affected region. Gargle,avoid dehydration.  Would you like to video or text chat with me?"
     ],
     [
         "Patient:I have heart valve disease (leaky heart due to rheumatic fever as a child). Never had any symptoms or complications, However, am I at high risk for death due to coronavirus and what can I take before or during early symptoms of the virus?I have heart valve disease (leaky heart due to rheumatic fever as a child). Never had any symptoms or complications, However, am I at high risk for death due to coronavirus and what can I take before or during early symptoms of the virus?",
@@ -1427,11 +1427,11 @@
     ],
     [
         "Patient:Displaying mild symptoms: Slightly sore chest Dry throat Intermittent dry cough Slight headache that comes and goes Quickly out of breath Temperature is between 37.1-37.5 at bed time the past couple of days  Don't feel really sick just slightly off?Displaying mild symptoms: Slightly sore chest Dry throat Intermittent dry cough Slight headache that comes and goes Quickly out of breath Temperature is between 37.1-37.5 at bed time the past couple of days  Don't feel really sick just slightly off?",
-        "Doctor:In brief:   Test   Your shortness of breath is concerning.   You may have an underlying condition and should also be screened for Coronavirus. Stay home, rest and drink fluids until you are seen by your physician. A chest image may be performed at the visit.  Would you like to video or text chat with me?"
+        "Doctor:Test   Your shortness of breath is concerning.   You may have an underlying condition and should also be screened for Coronavirus. Stay home, rest and drink fluids until you are seen by your physician. A chest image may be performed at the visit.  Would you like to video or text chat with me?"
     ],
     [
         "Patient:To kill virus on hand which soap better? AntiBacterial or Normal handsoap? Is AntiBacterial better since it specialized to get rid germs better? Im confused since i read on internet, any kind of soap doesnt matter.To kill virus on hand which soap better? AntiBacterial or Normal handsoap? Is AntiBacterial better since it specialized to get rid germs better? Im confused since i read on internet, any kind of soap doesnt matter.",
-        "Doctor:In brief:   Any soap   any soap should be effective against most viruses.   antibacterial soap may advertise against bacterial but has no claim to be better against viruses.  Would you like to video or text chat with me?"
+        "Doctor:Any soap   any soap should be effective against most viruses.   antibacterial soap may advertise against bacterial but has no claim to be better against viruses.  Would you like to video or text chat with me?"
     ],
     [
         "Patient:Experiencing pain and swelling accompanied by warmth to the touch with a red patch around my elbow. Also experiencing body aches. What could be the problem?Experiencing pain and swelling accompanied by warmth to the touch with a red patch around my elbow. Also experiencing body aches. What could be the problem?",
@@ -1447,7 +1447,7 @@
     ],
     [
         "Patient:Is the flu injection available?Is the flu injection available?",
-        "Doctor:In brief:   Not sure, but...   I'm writing from the U.  S., and I'm not sure of the availability of vaccination for influenza in your area.  However, with the coronavirus pandemic, getting your flu shot is a good idea, if possible.  It's always a good idea, but, also, though it won't protect you from coronavirus, you could get both. And, if you get the flu, not knowing if it's flu or coronavirus presents complications.  Would you like to video or text chat with me?"
+        "Doctor:Not sure, but...   I'm writing from the U.  S., and I'm not sure of the availability of vaccination for influenza in your area.  However, with the coronavirus pandemic, getting your flu shot is a good idea, if possible.  It's always a good idea, but, also, though it won't protect you from coronavirus, you could get both. And, if you get the flu, not knowing if it's flu or coronavirus presents complications.  Would you like to video or text chat with me?"
     ],
     [
         "Patient:I use Athraway chronic for rheumatoid arthritis, will this complicate things relating to the corona virus?I use Athraway chronic for rheumatoid arthritis, will this complicate things relating to the corona virus?",
@@ -1459,7 +1459,7 @@
     ],
     [
         "Patient:Should myself and my wife be sleeping apart at the moment due to the virus, as she is a nurse in a surgery, and i have type 1 diabetes?Should myself and my wife be sleeping apart at the moment due to the virus, as she is a nurse in a surgery, and i have type 1 diabetes?",
-        "Doctor:In brief:   Appears as though   this was asked before? She should disrobe immediately upon entering the home, place clothes in laundry and then shower. You need to keep A1c as low as possible, do everything you can to support gut health and immunity and increase supplements that increase resistance to viruses.   Sleep apart... your call!  Would you like to video or text chat with me?"
+        "Doctor:Appears as though   this was asked before? She should disrobe immediately upon entering the home, place clothes in laundry and then shower. You need to keep A1c as low as possible, do everything you can to support gut health and immunity and increase supplements that increase resistance to viruses.   Sleep apart... your call!  Would you like to video or text chat with me?"
     ],
     [
         "Patient:Is my wife is at huge risk of getting the virus, as she is a nurse in a GP surgery? I’m so scared for her. I’m scared she will get it, and we will both end up with it.Is my wife is at huge risk of getting the virus, as she is a nurse in a GP surgery? I’m so scared for her. I’m scared she will get it, and we will both end up with it.",
@@ -1467,7 +1467,7 @@
     ],
     [
         "Patient:What are my chances of only getting mild symptoms if I get the virus, because I have type 1 diabetes?What are my chances of only getting mild symptoms if I get the virus, because I have type 1 diabetes?",
-        "Doctor:In brief:   Probable   I know there is a study that shows concern for diabetics, however, this is one study and there are others that show no particular issue.   The data is clear that older, especially older than 70, multiple comorbid conditioins and smoking are critical problems. Although diabetic if it is controlled well it is likely your symptoms will be like most 38 year olds- mild.   Would you like to video or text chat with me?"
+        "Doctor:Probable   I know there is a study that shows concern for diabetics, however, this is one study and there are others that show no particular issue.   The data is clear that older, especially older than 70, multiple comorbid conditioins and smoking are critical problems. Although diabetic if it is controlled well it is likely your symptoms will be like most 38 year olds- mild.   Would you like to video or text chat with me?"
     ],
     [
         "Patient:Hi, I would like to know is the coronavirus one virus or mixed with other viruses as I been told by someone?Hi, I would like to know is the coronavirus one virus or mixed with other viruses as I been told by someone?",
@@ -1475,7 +1475,7 @@
     ],
     [
         "Patient:Does a person get all the Covid 19  symptoms all at once  eg temperature, cold , tiredness , or we can get any of them eg cold but no temperature?Does a person get all the Covid 19  symptoms all at once  eg temperature, cold , tiredness , or we can get any of them eg cold but no temperature?",
-        "Doctor:In brief:   Many possibilities   Seek care right away if difficulty breathing, other severe symptoms.  Seek testing if sick, PLUS known COVID-19 contact, or travel to high risk country, or been in facility treating people with Covid-19, or severe pneumonia of unknown cause.Call 0800 029 999 for test.If sick or possibly exposed (not both), stay home.Seek consultation if sick.If known exposure & not sick, self-isolate 14 days.  Would you like to video or text chat with me?"
+        "Doctor:Many possibilities   Seek care right away if difficulty breathing, other severe symptoms.  Seek testing if sick, PLUS known COVID-19 contact, or travel to high risk country, or been in facility treating people with Covid-19, or severe pneumonia of unknown cause.Call 0800 029 999 for test.If sick or possibly exposed (not both), stay home.Seek consultation if sick.If known exposure & not sick, self-isolate 14 days.  Would you like to video or text chat with me?"
     ],
     [
         "Patient:I'm not sure, my temperature is 36.5, I have some chills but not significant but I yawn a lot and my breath is short, feels like I have to breath more, I'm laying down breathing through the nose is easier.I'm not sure, my temperature is 36.5, I have some chills but not significant but I yawn a lot and my breath is short, feels like I have to breath more, I'm laying down breathing through the nose is easier.",
@@ -1483,7 +1483,7 @@
     ],
     [
         "Patient:I live in france.and now 7days for home quarantine.i have no fever.but I have parangities in my thoart.last few years it's comes and goes.now I am worried because of covid-19. Does only parangities is only symptoms of this???I live in france.and now 7days for home quarantine.i have no fever.but I have parangities in my thoart.last few years it's comes and goes.now I am worried because of covid-19. Does only parangities is only symptoms of this???",
-        "Doctor:In brief:   Think you ok    if a longterm thing sounds chronic not corona , only way to know is the test  Would you like to video or text chat with me?"
+        "Doctor:Think you ok    if a longterm thing sounds chronic not corona , only way to know is the test  Would you like to video or text chat with me?"
     ],
     [
         "Patient:I‘ve had a dry cough for a couple weeks now, post nasal drip, runny nose, sore throat every now and then, I think I’m starting to develop a fever and I’m getting lightheaded/feeling faint when I stand and walk & slight body aches. Do I have Covid19?I‘ve had a dry cough for a couple weeks now, post nasal drip, runny nose, sore throat every now and then, I think I’m starting to develop a fever and I’m getting lightheaded/feeling faint when I stand and walk & slight body aches. Do I have Covid19?",
@@ -1499,15 +1499,15 @@
     ],
     [
         "Patient:If one get corona and you are self isolating and it is not severe, is there any meds that one can take?If one get corona and you are self isolating and it is not severe, is there any meds that one can take?",
-        "Doctor:In brief:   Not really     keep immunity up, keep mental health strong, no specific meds at this point in time  Would you like to video or text chat with me?"
+        "Doctor:Not really     keep immunity up, keep mental health strong, no specific meds at this point in time  Would you like to video or text chat with me?"
     ],
     [
         "Patient:Hi, I have come into contact with someone that tested positive for the virus, what do I need to do? I have been isolating for a week now and developed a sore throat yesterday。Hi, I have come into contact with someone that tested positive for the virus, what do I need to do? I have been isolating for a week now and developed a sore throat yesterday。",
-        "Doctor:In brief:   Continue to    self isolate.   Get rest, drink lots of liquids, tylenol as needed, IF get severely sick seek care.  Would you like to video or text chat with me?"
+        "Doctor:Continue to    self isolate.   Get rest, drink lots of liquids, tylenol as needed, IF get severely sick seek care.  Would you like to video or text chat with me?"
     ],
     [
         "Patient:Do I have coronavirus ? I have joint pains. I did sleep most of the day yesterday so I might have been in an uncomfortable position. I have neck, shoulder, elbow joint and wrist pain. Must I get tested ?Do I have coronavirus ? I have joint pains. I did sleep most of the day yesterday so I might have been in an uncomfortable position. I have neck, shoulder, elbow joint and wrist pain. Must I get tested ?",
-        "Doctor:In brief:   No   not yet, joint pain alone not an indication, but stay home   Would you like to video or text chat with me?"
+        "Doctor:No   not yet, joint pain alone not an indication, but stay home   Would you like to video or text chat with me?"
     ],
     [
         "Patient:I have a prolia injection appointment at the beginning of April. Will it be safer to postpone the appointment because of the COVID-19 situation? Prolia appointment。I have a prolia injection appointment at the beginning of April. Will it be safer to postpone the appointment because of the COVID-19 situation? Prolia appointment。",
@@ -1515,7 +1515,7 @@
     ],
     [
         "Patient:Re: COVID-19 -- Is it safe to go out in public without a face mask on right now as long as the recommended 6ft distance is maintained? Am wondering if picking up groceries curbside (have to get out of car and open trunk for store employee) is safe?Re: COVID-19 -- Is it safe to go out in public without a face mask on right now as long as the recommended 6ft distance is maintained? Am wondering if picking up groceries curbside (have to get out of car and open trunk for store employee) is safe?",
-        "Doctor:In brief:   Yes and no.   Yes for the first question.   For the second question i should say no because the possibility of the store employee coming close less than 6 feet is great. But what you can do is you get out of the car open the truck and then call the store employee for a curb side pick up leaving always a 6 feet distance between two of you.  Would you like to video or text chat with me?"
+        "Doctor:Yes and no.   Yes for the first question.   For the second question i should say no because the possibility of the store employee coming close less than 6 feet is great. But what you can do is you get out of the car open the truck and then call the store employee for a curb side pick up leaving always a 6 feet distance between two of you.  Would you like to video or text chat with me?"
     ],
     [
         "Patient:My wife is a nurse in a GP practice, and although she has a mask and gloves etc, is that enough to protect her, if an infected patient with the virus was to come in to her?My wife is a nurse in a GP practice, and although she has a mask and gloves etc, is that enough to protect her, if an infected patient with the virus was to come in to her?",
@@ -1523,11 +1523,11 @@
     ],
     [
         "Patient:The symptoms of COVID sound like my asthma symptoms when it flares up. So how would I know the difference?The symptoms of COVID sound like my asthma symptoms when it flares up. So how would I know the difference?",
-        "Doctor:In brief:   Fever/flu like sx   COVID-19 is typically associated with flu like symptoms, fever, dry cough and/or shortness of breath.   If your shortness of breath does not improve with Albuterol inhaler, please call your PCP right away. Stay home, rest, drink fluids, monitor your temperature and avoid environmental triggers such as smoke and dust.   Would you like to video or text chat with me?"
+        "Doctor:Fever/flu like sx   COVID-19 is typically associated with flu like symptoms, fever, dry cough and/or shortness of breath.   If your shortness of breath does not improve with Albuterol inhaler, please call your PCP right away. Stay home, rest, drink fluids, monitor your temperature and avoid environmental triggers such as smoke and dust.   Would you like to video or text chat with me?"
     ],
     [
         "Patient:What are my chances of becoming severely unwell with the coronavirus, as I have type 1 diabetes?What are my chances of becoming severely unwell with the coronavirus, as I have type 1 diabetes?",
-        "Doctor:In brief:   High    diabetes -especially uncontrolled is a probem, if you are well controlled similar to rest of population, no one really spared so to speak, stay home, if you need to consult do so telephonically  Would you like to video or text chat with me?"
+        "Doctor:High    diabetes -especially uncontrolled is a probem, if you are well controlled similar to rest of population, no one really spared so to speak, stay home, if you need to consult do so telephonically  Would you like to video or text chat with me?"
     ],
     [
         "Patient:I have a sour throat. I travelled to Joburg on 8 March and sat next to a passenger with a face mask and had a running stomach. I now suspect corona infection?I have a sour throat. I travelled to Joburg on 8 March and sat next to a passenger with a face mask and had a running stomach. I now suspect corona infection?",
@@ -1535,7 +1535,7 @@
     ],
     [
         "Patient:I have been running a low grade fever for over two weeks. I have three days left of a Cefidner prescription.  I am still running a low-grade - ranges from 99 to high of 100.7.  I have no other symptoms except usual allergies.  Will blood work show what is。I have been running a low grade fever for over two weeks. I have three days left of a Cefidner prescription.  I am still running a low-grade - ranges from 99 to high of 100.7.  I have no other symptoms except usual allergies.  Will blood work show what is。",
-        "Doctor:In brief:   Bloods do help    but only a corona virus test confirms - stay home or be tested safely, your problem sounds more chronic but hard to say  Would you like to video or text chat with me?"
+        "Doctor:Bloods do help    but only a corona virus test confirms - stay home or be tested safely, your problem sounds more chronic but hard to say  Would you like to video or text chat with me?"
     ],
     [
         "Patient:Hi there, I came into contact with somebody on Tuesday last week that was later that week tested positive for COVID-19. I found this out on Friday and straight away went into self quarantine. I am not showing symptoms as yet.?Hi there, I came into contact with somebody on Tuesday last week that was later that week tested positive for COVID-19. I found this out on Friday and straight away went into self quarantine. I am not showing symptoms as yet.?",
@@ -1543,7 +1543,7 @@
     ],
     [
         "Patient:I have a soar trought. Can I have Covid19?I have a soar trought. Can I have Covid19?",
-        "Doctor:In brief:   Possible   Top symptoms of COVID include fever, dry cough, SOB.   Sore throat is a symptom, but not as common. You are 36 and likelyhood of severe infection uncommon. Probably best to socially isolate. Other possibilities include strep, influenza or adenovirus. Follow these guidelines:  https://www.healthtap.com/blog/covid-19-care-guidelines/self-quarantine-guide  Would you like to video or text chat with me?"
+        "Doctor:Possible   Top symptoms of COVID include fever, dry cough, SOB.   Sore throat is a symptom, but not as common. You are 36 and likelyhood of severe infection uncommon. Probably best to socially isolate. Other possibilities include strep, influenza or adenovirus. Follow these guidelines:  https://www.healthtap.com/blog/covid-19-care-guidelines/self-quarantine-guide  Would you like to video or text chat with me?"
     ],
     [
         "Patient:I have had sore throat and shortness of breath, tight chest since last Monday. 8 days later and symptoms are not going away. No runny nose. I have been exposed to travelers. Should I go for covid test?I have had sore throat and shortness of breath, tight chest since last Monday. 8 days later and symptoms are not going away. No runny nose. I have been exposed to travelers. Should I go for covid test?",
@@ -1551,7 +1551,7 @@
     ],
     [
         "Patient:Good afternoon, I recently visited a client whose husband works in the same practice as a confirmed Covid case.Two days after the visit I fell ill, gradually getting a sore throat, fever and feeling tired. Should I get tested?Good afternoon, I recently visited a client whose husband works in the same practice as a confirmed Covid case.Two days after the visit I fell ill, gradually getting a sore throat, fever and feeling tired. Should I get tested?",
-        "Doctor:In brief:   Tesing   Follow the following guidelines: https://www.  healthtap.com/blog/covid-19-care-guidelines/self-quarantine-guide Call your local provider or Health department. At 36 you would be considered low risk for serious infection.  The test in itself does not lead to a specific action and the tests are numbered. So at this time the tests are limited and being used for sicker patients.   Would you like to video or text chat with me?"
+        "Doctor:Tesing   Follow the following guidelines: https://www.  healthtap.com/blog/covid-19-care-guidelines/self-quarantine-guide Call your local provider or Health department. At 36 you would be considered low risk for serious infection.  The test in itself does not lead to a specific action and the tests are numbered. So at this time the tests are limited and being used for sicker patients.   Would you like to video or text chat with me?"
     ],
     [
         "Patient:Last year during flu season had a severe cough, difficulty breathing and xray show there was fluid in my chest/lungs. Any advice on what to do with this covid 19.Last year during flu season had a severe cough, difficulty breathing and xray show there was fluid in my chest/lungs. Any advice on what to do with this covid 19.",
@@ -1571,7 +1571,7 @@
     ],
     [
         "Patient:Where can I test on for free on a essential smart plan for COVID-19?Where can I test on for free on a essential smart plan for COVID-19?",
-        "Doctor:In brief:   Local issue   When or where testing is available is a local issue.   Your post does not reveal your location or even the country you are in. We have no access to or information about health plans or services around the world where this site can be seen. You will need to contact a local health department for such information.   Would you like to video or text chat with me?"
+        "Doctor:Local issue   When or where testing is available is a local issue.   Your post does not reveal your location or even the country you are in. We have no access to or information about health plans or services around the world where this site can be seen. You will need to contact a local health department for such information.   Would you like to video or text chat with me?"
     ],
     [
         "Patient:I have a dry cough and sore throat. Should I be scared of contacting of Covid 19?I have a dry cough and sore throat. Should I be scared of contacting of Covid 19?",
@@ -1587,7 +1587,7 @@
     ],
     [
         "Patient:I have a problem with with my chest. Pain and a bit short of breath. I cough every now and then, no fever and no headaches. But i am concerned it might be this new coronavirus. ?I have a problem with with my chest. Pain and a bit short of breath. I cough every now and then, no fever and no headaches. But i am concerned it might be this new coronavirus. ?",
-        "Doctor:In brief:   Possible    Top symptoms are cough, SOB and fever. Best to self-quarantine.   Call your provider and or health departmentHealhtap quarantine instructions are as follows:https://www.healthtap.com/blog/covid-19-care-guidelines/self-quarantine-guide  Would you like to video or text chat with me?"
+        "Doctor:Possible    Top symptoms are cough, SOB and fever. Best to self-quarantine.   Call your provider and or health departmentHealhtap quarantine instructions are as follows:https://www.healthtap.com/blog/covid-19-care-guidelines/self-quarantine-guide  Would you like to video or text chat with me?"
     ],
     [
         "Patient:I have had contact with a co-worker who has now been confirmed as having the corona virus. I don't have any symptoms but my landlords would like me to be tested. Is this possible & how do I do this?I have had contact with a co-worker who has now been confirmed as having the corona virus. I don't have any symptoms but my landlords would like me to be tested. Is this possible & how do I do this?",
@@ -1595,23 +1595,23 @@
     ],
     [
         "Patient:Hi ,  Can I use Oralcon birth control pills even though we have the coronavirus epademic ?Hi ,  Can I use Oralcon birth control pills even though we have the coronavirus epademic ?",
-        "Doctor:In brief:   Yes   I am unaware of any contraindication to using BCP and the virus.   Would you like to video or text chat with me?"
+        "Doctor:Yes   I am unaware of any contraindication to using BCP and the virus.   Would you like to video or text chat with me?"
     ],
     [
         "Patient:When I get back from grocery store do I need to wash my groceries and grocery sacks with garden hose outside to prevent Coronavirus ?When I get back from grocery store do I need to wash my groceries and grocery sacks with garden hose outside to prevent Coronavirus ?",
-        "Doctor:In brief:   Groceries.    https://www.consumerreports.  org/food-shopping/how-to-protect-yourself-from-coronavirus-when-grocery-shopping/This article will help!  Would you like to video or text chat with me?"
+        "Doctor:Groceries.    https://www.consumerreports.  org/food-shopping/how-to-protect-yourself-from-coronavirus-when-grocery-shopping/This article will help!  Would you like to video or text chat with me?"
     ],
     [
         "Patient:I am very fearful of the Corona virus, if I have a dry cough and headache should I stay indoors and away from others?I am very fearful of the Corona virus, if I have a dry cough and headache should I stay indoors and away from others?",
-        "Doctor:In brief:   Self quarantine.   Isolate yourself and contact to your doctor by phone or via internet.   You may have flu more than corona virus. Because headache is not a common symptom of the corona virus and your age is not the age that is vulnarable to corona virus.  Would you like to video or text chat with me?"
+        "Doctor:Self quarantine.   Isolate yourself and contact to your doctor by phone or via internet.   You may have flu more than corona virus. Because headache is not a common symptom of the corona virus and your age is not the age that is vulnarable to corona virus.  Would you like to video or text chat with me?"
     ],
     [
         "Patient:My 60 year old mother developed cough and sneezing .which medicine to be given?My 60 year old mother developed cough and sneezing .which medicine to be given?",
-        "Doctor:In brief:   OTC medications.   You can use over the counter cough and cold medications.   Since covid-19 is endemic in your state you need to contact your mother's doctor and ask how to proceed. Her doctor may want her to be self quarantined and even be tested depending circumstances.  Would you like to video or text chat with me?"
+        "Doctor:OTC medications.   You can use over the counter cough and cold medications.   Since covid-19 is endemic in your state you need to contact your mother's doctor and ask how to proceed. Her doctor may want her to be self quarantined and even be tested depending circumstances.  Would you like to video or text chat with me?"
     ],
     [
         "Patient:On Saturday evening I arrived from a vacation in Canada and I traveled via the European Union(Amsterdam). According to the NICD, I am required to be in self quarantine for 14 days. Can one request a medical certificate for this from a doctor?On Saturday evening I arrived from a vacation in Canada and I traveled via the European Union(Amsterdam). According to the NICD, I am required to be in self quarantine for 14 days. Can one request a medical certificate for this from a doctor?",
-        "Doctor:In brief:   Covid19   HiYou cannot go in and see your doctor,  so I would suggest to phone hime and hear what he says.  RegardsDr Wil  Would you like to video or text chat with me?"
+        "Doctor:Covid19   HiYou cannot go in and see your doctor,  so I would suggest to phone hime and hear what he says.  RegardsDr Wil  Would you like to video or text chat with me?"
     ],
     [
         "Patient:I'm told that dirrhea is a symptom of Covid 19. I have had it for 36 hours, no appetite. Do I need to be tested and where? I'm in Alberton.I'm told that dirrhea is a symptom of Covid 19. I have had it for 36 hours, no appetite. Do I need to be tested and where? I'm in Alberton.",
@@ -1619,7 +1619,7 @@
     ],
     [
         "Patient:What risk am I from coronavirus as I have VTE?What risk am I from coronavirus as I have VTE?",
-        "Doctor:In brief:   VTE   I am unaware that VTE (Venous thromboembolism) is associated with increased risk for severe infection.   Keep in mind at 42 your risk is low for severe infection. Otherwise do not smoke or start. Consider vitamin D3 and vitamin C and make sure you stay active. Also social distancing is not social isolation. Remember this too will pass!  Would you like to video or text chat with me?"
+        "Doctor:VTE   I am unaware that VTE (Venous thromboembolism) is associated with increased risk for severe infection.   Keep in mind at 42 your risk is low for severe infection. Otherwise do not smoke or start. Consider vitamin D3 and vitamin C and make sure you stay active. Also social distancing is not social isolation. Remember this too will pass!  Would you like to video or text chat with me?"
     ],
     [
         "Patient:How do I know if I have a normal cold or maybe the Corona virus. My sinuses are congested and I have a post nasal drip which causes sporadic episodes of dry cough outbreaks. I don’t have a fever, but my body is stiff since I hiked 100km in 4 days.?How do I know if I have a normal cold or maybe the Corona virus. My sinuses are congested and I have a post nasal drip which causes sporadic episodes of dry cough outbreaks. I don’t have a fever, but my body is stiff since I hiked 100km in 4 days.?",
@@ -1627,23 +1627,23 @@
     ],
     [
         "Patient:Hi my husband has been puking since this morning, has serious vertigo + is off balance. Im suspecting food poisoning but want to be sure. I gave him a pill for nausea, which is working. Do I still take him to a doctor to check that its nothing else?Hi my husband has been puking since this morning, has serious vertigo + is off balance. Im suspecting food poisoning but want to be sure. I gave him a pill for nausea, which is working. Do I still take him to a doctor to check that its nothing else?",
-        "Doctor:In brief:   No    if food poisoning he will either recover or need a drip to replace fluids don't go into public spaces now, if food poisoning do what you can, if he needs a drip go to a non corona hospital try everything to stay home, rehydrat onto ice chips, maxalon over the counter  Would you like to video or text chat with me?"
+        "Doctor:No    if food poisoning he will either recover or need a drip to replace fluids don't go into public spaces now, if food poisoning do what you can, if he needs a drip go to a non corona hospital try everything to stay home, rehydrat onto ice chips, maxalon over the counter  Would you like to video or text chat with me?"
     ],
     [
         "Patient:I am experiencing sore throat and lightheaded (unaffected by: prolonged standing, exercise, anxiety, dehydration (fluid loss)). I am not experiencing vomiting, nausea, slow or irregular breathing, abdominal discomfort, rapid heart rate, confusion, convuls。I am experiencing sore throat and lightheaded (unaffected by: prolonged standing, exercise, anxiety, dehydration (fluid loss)). I am not experiencing vomiting, nausea, slow or irregular breathing, abdominal discomfort, rapid heart rate, confusion, convuls。",
-        "Doctor:In brief:   Usually an infection   New throat symptoms can be from strep throat infection, a cold or the flu, or from another cause such as allergies, irritants, or coronavirus.   Usually, a person sees the doctor if symptoms is bothersome, recurrent, or don't go improve in a few days. COVID-19 infections tend to have chest cough, whereas strep usually lacks cough but has more throat pain. Can call Dr. on video or phone. (Mar. 2020)  Would you like to video or text chat with me?"
+        "Doctor:Usually an infection   New throat symptoms can be from strep throat infection, a cold or the flu, or from another cause such as allergies, irritants, or coronavirus.   Usually, a person sees the doctor if symptoms is bothersome, recurrent, or don't go improve in a few days. COVID-19 infections tend to have chest cough, whereas strep usually lacks cough but has more throat pain. Can call Dr. on video or phone. (Mar. 2020)  Would you like to video or text chat with me?"
     ],
     [
         "Patient:Chest is sore and that theres something that needs to be coughed up but nothing there and no overt cough or temperature. No difficulty breathing No other symptoms. Only local travel via air 1 week ago. Do I need to be worried about COVID-19?Chest is sore and that theres something that needs to be coughed up but nothing there and no overt cough or temperature. No difficulty breathing No other symptoms. Only local travel via air 1 week ago. Do I need to be worried about COVID-19?",
-        "Doctor:In brief:   Possible   The most common symptoms from COVID include the following:  Fever, Dry Cough and SOB.    Given no fever, I think general precautions are all that is needed.  Follow the following:  https://www.healthtap.com/blog/covid-19-care-guidelines/preventing-covid-19, and if fever do the following:  https://www.healthtap.com/blog/covid-19-care-guidelines/self-quarantine-guide  Would you like to video or text chat with me?"
+        "Doctor:Possible   The most common symptoms from COVID include the following:  Fever, Dry Cough and SOB.    Given no fever, I think general precautions are all that is needed.  Follow the following:  https://www.healthtap.com/blog/covid-19-care-guidelines/preventing-covid-19, and if fever do the following:  https://www.healthtap.com/blog/covid-19-care-guidelines/self-quarantine-guide  Would you like to video or text chat with me?"
     ],
     [
         "Patient:I got back from Israel last Monday  I am in quarantine  My symptoms are tight chest and shortness of breath Do I need to have a test? Should I be taking any medication?I got back from Israel last Monday  I am in quarantine  My symptoms are tight chest and shortness of breath Do I need to have a test? Should I be taking any medication?",
-        "Doctor:In brief:   Covid test    two weeks of self isolation, if you get worse, call your GP firstTake anti histamines and panda only ,  get an asthavent pump, use twice a dayLots of fluids, vit C and Zinc, add echinaforce drops  Would you like to video or text chat with me?"
+        "Doctor:Covid test    two weeks of self isolation, if you get worse, call your GP firstTake anti histamines and panda only ,  get an asthavent pump, use twice a dayLots of fluids, vit C and Zinc, add echinaforce drops  Would you like to video or text chat with me?"
     ],
     [
         "Patient:Our office has been shutdown due one of my colleagues’s close relative being confirmed to have vivid-19. I am currently quarantined at home and would like to know if I can test for corona. ?Our office has been shutdown due one of my colleagues’s close relative being confirmed to have vivid-19. I am currently quarantined at home and would like to know if I can test for corona. ?",
-        "Doctor:In brief:   Not enough tests   Aside from really sick people and hospitalized patients, there aren't enough PCR viral tests in the US.   For now, we tell people that if they are healthy, just keep 6 feet from other people, and remember that high-touch objects have viruses. If people have any symptoms, even just sniffles, they isolate themselves, and call their doctors if having moderate or worsening symptoms. (3/23/20)  Would you like to video or text chat with me?"
+        "Doctor:Not enough tests   Aside from really sick people and hospitalized patients, there aren't enough PCR viral tests in the US.   For now, we tell people that if they are healthy, just keep 6 feet from other people, and remember that high-touch objects have viruses. If people have any symptoms, even just sniffles, they isolate themselves, and call their doctors if having moderate or worsening symptoms. (3/23/20)  Would you like to video or text chat with me?"
     ],
     [
         "Patient:As someone that suffered from Wolff Parkinson White Syndrome should I be extra careful with the Corona Virus affecting my heart? I have had four rf ablations to tread the svts and afib and am currently symptoms free.As someone that suffered from Wolff Parkinson White Syndrome should I be extra careful with the Corona Virus affecting my heart? I have had four rf ablations to tread the svts and afib and am currently symptoms free.",
@@ -1655,7 +1655,7 @@
     ],
     [
         "Patient:Was in Cape Town 2020/03/12 - 2020/03/15 Close proximity to sevral overseas tourists 2020/03/20 throat sore and voice gone Back (upper middle area) and shoulders hurt Shivering, dry cough, headache and lethargic Should I go for Covid19 testing?Was in Cape Town 2020/03/12 - 2020/03/15 Close proximity to sevral overseas tourists 2020/03/20 throat sore and voice gone Back (upper middle area) and shoulders hurt Shivering, dry cough, headache and lethargic Should I go for Covid19 testing?",
-        "Doctor:In brief:   Yes   yes  Would you like to video or text chat with me?"
+        "Doctor:Yes   yes  Would you like to video or text chat with me?"
     ],
     [
         "Patient:Hi I asked a specific question to a Dr 2 days ago and haven’t heard anything back. I basically need a referral letter to get a Covid test done. It’s that simple. I travelled to Cape Town but attended an event with over 400 people from all over?Hi I asked a specific question to a Dr 2 days ago and haven’t heard anything back. I basically need a referral letter to get a Covid test done. It’s that simple. I travelled to Cape Town but attended an event with over 400 people from all over?",
@@ -1667,27 +1667,27 @@
     ],
     [
         "Patient:Hi I have Hypothyroidism. I’ve been in chronic meds for over 5 years now. Am I at risk for Coronavirus. Also should I boost my immune system? Thanks。Hi I have Hypothyroidism. I’ve been in chronic meds for over 5 years now. Am I at risk for Coronavirus. Also should I boost my immune system? Thanks。",
-        "Doctor:In brief:   No   you are not more than the next person :) relax self isolate  Would you like to video or text chat with me?"
+        "Doctor:No   you are not more than the next person :) relax self isolate  Would you like to video or text chat with me?"
     ],
     [
         "Patient:I have been to the emergency room at busamed hospital on Thursday and was treated for a tummy bug, since then I have developed a fever and body aches and tiredness, I would like to know where can o go to be tested for covid 19?I have been to the emergency room at busamed hospital on Thursday and was treated for a tummy bug, since then I have developed a fever and body aches and tiredness, I would like to know where can o go to be tested for covid 19?",
-        "Doctor:In brief:   Tummy Bug   GI symptoms are rare with Coronavirus.    SOB and Dry cough and fever common. Testing should lead to a purposeful action and at this time there is none. That is there is no medication to get and treatment for the virus is rest and social isolation which you do not need a test to do. If you do get cough and SOB then notify your provider and get checked. The virus typically runs for 10 to 14 days.  Would you like to video or text chat with me?"
+        "Doctor:Tummy Bug   GI symptoms are rare with Coronavirus.    SOB and Dry cough and fever common. Testing should lead to a purposeful action and at this time there is none. That is there is no medication to get and treatment for the virus is rest and social isolation which you do not need a test to do. If you do get cough and SOB then notify your provider and get checked. The virus typically runs for 10 to 14 days.  Would you like to video or text chat with me?"
     ],
     [
         "Patient:Hi  I had a runny nose took some immune booster and med lemon and now it is a cough with sporadic phlegm. Should get test for this COVID 19?   I don’t have a fever. I also have a bit of short breath.Hi  I had a runny nose took some immune booster and med lemon and now it is a cough with sporadic phlegm. Should get test for this COVID 19?   I don’t have a fever. I also have a bit of short breath.",
-        "Doctor:In brief:   Test if can    don't go to a public space, consult via the telephone or get a coronavirus test   Would you like to video or text chat with me?"
+        "Doctor:Test if can    don't go to a public space, consult via the telephone or get a coronavirus test   Would you like to video or text chat with me?"
     ],
     [
         "Patient:Hi  I have a runny nose Difficulty breathing even with an asthma pump My head is pounding Body aches and chills ?Hi  I have a runny nose Difficulty breathing even with an asthma pump My head is pounding Body aches and chills ?",
-        "Doctor:In brief:   Symptoms   If you  are not having troubles breathing best to self-isolate.   Follow the following guidelines:  https://www.healthtap.com/blog/covid-19-care-guidelines/preventing-covid-19Probably worthwhile to first isolate yourself: Guidelines as follow:  https://www.healthtap.com/blog/covid-19-care-guidelines/self-quarantine-guideIf you are not having significant SOB COVID should be mild for you.   Would you like to video or text chat with me?"
+        "Doctor:Symptoms   If you  are not having troubles breathing best to self-isolate.   Follow the following guidelines:  https://www.healthtap.com/blog/covid-19-care-guidelines/preventing-covid-19Probably worthwhile to first isolate yourself: Guidelines as follow:  https://www.healthtap.com/blog/covid-19-care-guidelines/self-quarantine-guideIf you are not having significant SOB COVID should be mild for you.   Would you like to video or text chat with me?"
     ],
     [
         "Patient:I have thing in my eyes and are painful, and sometimes giving me headaches?I have thing in my eyes and are painful, and sometimes giving me headaches?",
-        "Doctor:In brief:   Eye pain   Eye pain can be for various reasons.    Bilateral eye pain would be less likely foreign body although dusts can cause this. Conjunctivitis can be bilateral from either bacteria, virus or allergies. Light exposure can cause eye irritation.   Would you like to video or text chat with me?"
+        "Doctor:Eye pain   Eye pain can be for various reasons.    Bilateral eye pain would be less likely foreign body although dusts can cause this. Conjunctivitis can be bilateral from either bacteria, virus or allergies. Light exposure can cause eye irritation.   Would you like to video or text chat with me?"
     ],
     [
         "Patient:Good morning I have all the symptoms for the coronavirus except a high fewer. I have been in contact with someone (who now also are displaying these symptoms) who are staying with a person who visited India in the last few weeks.  Should I be worried?Good morning I have all the symptoms for the coronavirus except a high fewer. I have been in contact with someone (who now also are displaying these symptoms) who are staying with a person who visited India in the last few weeks.  Should I be worried?",
-        "Doctor:In brief:   Symptoms   Glad you are not ignoring your symptoms.   Follow the following guidelines: https://www.healthtap.com/blog/covid-19-care-guidelines/self-quarantine-guide. Keep in mind that the virus will very likely be of lesser course in someone your age. Best to isolate and do the things you would normally do to treat the flu- rest, fluids and antipyretics if needed.  If you would get particularly SOB be seen.   Would you like to video or text chat with me?"
+        "Doctor:Symptoms   Glad you are not ignoring your symptoms.   Follow the following guidelines: https://www.healthtap.com/blog/covid-19-care-guidelines/self-quarantine-guide. Keep in mind that the virus will very likely be of lesser course in someone your age. Best to isolate and do the things you would normally do to treat the flu- rest, fluids and antipyretics if needed.  If you would get particularly SOB be seen.   Would you like to video or text chat with me?"
     ],
     [
         "Patient:My throat is extremely scratchy and red inside, I can see it being inflamed almost to my teeth (dark pink in colour) I’m very short of breathe, even as an asthmatic, I have to use my inhalers more than usual and has nebulized 3 times in the last 24 h?My throat is extremely scratchy and red inside, I can see it being inflamed almost to my teeth (dark pink in colour) I’m very short of breathe, even as an asthmatic, I have to use my inhalers more than usual and has nebulized 3 times in the last 24 h?",
@@ -1699,11 +1699,11 @@
     ],
     [
         "Patient:I have a dry cough, sore throat and headaches, can you please assist with giving me possible explanations for this, I am scared as well due to the Corona virus?I have a dry cough, sore throat and headaches, can you please assist with giving me possible explanations for this, I am scared as well due to the Corona virus?",
-        "Doctor:In brief:   +- Covid19 (see bel)   There are multiple causes of those symptoms, including COVID 19, but only go for a test if,1.   You have traveled to high risk countries in the last 2-4 weeks2. You have had +ve Contact with a known +ve COVID 19 case3. If you have a high fever with your sore throat + severe headache + dry cough.Hope that helps.RgdsDr Wayne Korras  Would you like to video or text chat with me?"
+        "Doctor:+- Covid19 (see bel)   There are multiple causes of those symptoms, including COVID 19, but only go for a test if,1.   You have traveled to high risk countries in the last 2-4 weeks2. You have had +ve Contact with a known +ve COVID 19 case3. If you have a high fever with your sore throat + severe headache + dry cough.Hope that helps.RgdsDr Wayne Korras  Would you like to video or text chat with me?"
     ],
     [
         "Patient:I am experiencing nasal congestion, sneezing (unaffected by: recent exposure to allergens, exposure to secondhand smoke), sore throat, itchy eyes, ear pressure, nasal drainage, post nasal drip, eye irritation, runny nose, and watery eyes. I am not experie。I am experiencing nasal congestion, sneezing (unaffected by: recent exposure to allergens, exposure to secondhand smoke), sore throat, itchy eyes, ear pressure, nasal drainage, post nasal drip, eye irritation, runny nose, and watery eyes. I am not experie。",
-        "Doctor:In brief:   Itching /congestion   With the itching could be seasonal allergies would consider Benadryl 1/2 to 1 tab at bedtime and Zyrtec during the day .   Itching  is pretty specific for allergies.  If worsens  or develops fever would seek medical attention for sinusitis versus viral  infection including coronavirus these days   but as stated itching  is pretty diagnostic of allergies.   Would you like to video or text chat with me?"
+        "Doctor:Itching /congestion   With the itching could be seasonal allergies would consider Benadryl 1/2 to 1 tab at bedtime and Zyrtec during the day .   Itching  is pretty specific for allergies.  If worsens  or develops fever would seek medical attention for sinusitis versus viral  infection including coronavirus these days   but as stated itching  is pretty diagnostic of allergies.   Would you like to video or text chat with me?"
     ],
     [
         "Patient:If I present with a scratchy throat, do I automatically self isolate, or do I wait for more symptoms for coronavirus?If I present with a scratchy throat, do I automatically self isolate, or do I wait for more symptoms for coronavirus?",
@@ -1711,7 +1711,7 @@
     ],
     [
         "Patient:Hello.   I’d like some help please, I’ve started getting these symptoms and am wondering if I should see a doctor or stay at home and try to get better.  - Headache - weird yellowish growth on the side of my throat  - tight chest - mild cough ?Hello.   I’d like some help please, I’ve started getting these symptoms and am wondering if I should see a doctor or stay at home and try to get better.  - Headache - weird yellowish growth on the side of my throat  - tight chest - mild cough ?",
-        "Doctor:In brief:   Self isolate   The current DOH guidelines are to self isolate.   If you develop fever, cough or shortness of breath, phone your local GP/ service provider and arrange for testing. If you have traveled overseas or have been in possible contact with someone with confirmed COVID 19, arrange testing. (wear a mask when going out if needed). For more info try whatapp the word \"Hi\" to the coivd hotline 0600123456  Would you like to video or text chat with me?"
+        "Doctor:Self isolate   The current DOH guidelines are to self isolate.   If you develop fever, cough or shortness of breath, phone your local GP/ service provider and arrange for testing. If you have traveled overseas or have been in possible contact with someone with confirmed COVID 19, arrange testing. (wear a mask when going out if needed). For more info try whatapp the word \"Hi\" to the coivd hotline 0600123456  Would you like to video or text chat with me?"
     ],
     [
         "Patient:Hi. I am a 25 yr healthy, final year medical student. On Fri (20th) I developed symptoms: continuous dry cough, headache, a very very sore throat, sore neck and back muscles, and tired. I am now improving. Should I be tested for COVID19?Hi. I am a 25 yr healthy, final year medical student. On Fri (20th) I developed symptoms: continuous dry cough, headache, a very very sore throat, sore neck and back muscles, and tired. I am now improving. Should I be tested for COVID19?",
@@ -1731,23 +1731,23 @@
     ],
     [
         "Patient:Hi, I recently stopped smoking and have inflamed sinuses and since there is a corvid19 pendemic I am worried that these sinuses and runny nose could be linked to Coronavirus. The sinuses hurts mainly when I am sleeping.Hi, I recently stopped smoking and have inflamed sinuses and since there is a corvid19 pendemic I am worried that these sinuses and runny nose could be linked to Coronavirus. The sinuses hurts mainly when I am sleeping.",
-        "Doctor:In brief:   Do you have access     If you have access to testing you can be tested, more importantly have you had contact with someone who is postive htat you know, have you travelled?Do you have a fever?  Would you like to video or text chat with me?"
+        "Doctor:Do you have access     If you have access to testing you can be tested, more importantly have you had contact with someone who is postive htat you know, have you travelled?Do you have a fever?  Would you like to video or text chat with me?"
     ],
     [
         "Patient:Hi, I recently stopped smoking and have inflamed sinuses and since there is a corvid19 pendemic I am worried that these sinuses and runny nose could be linked to Coronavirua?Hi, I recently stopped smoking and have inflamed sinuses and since there is a corvid19 pendemic I am worried that these sinuses and runny nose could be linked to Coronavirua?",
-        "Doctor:In brief:   Don't worry    your symptoms are unlikely related to corvid 19, and rather to change of season and smoking cessationtry to use a saline nasal spray and Otrivin nasal spray at least 4-5 times a day don't use Otrivin longer than 10 days  Would you like to video or text chat with me?"
+        "Doctor:Don't worry    your symptoms are unlikely related to corvid 19, and rather to change of season and smoking cessationtry to use a saline nasal spray and Otrivin nasal spray at least 4-5 times a day don't use Otrivin longer than 10 days  Would you like to video or text chat with me?"
     ],
     [
         "Patient:Hi. I have a very tight chest but no cough. Feels like I am about to cough sometimes but no cough. Then when I stand upright it's worse. No fever. Possible exposure to covid from gibs university but not sure. Really burning sensation on my chest.Hi. I have a very tight chest but no cough. Feels like I am about to cough sometimes but no cough. Then when I stand upright it's worse. No fever. Possible exposure to covid from gibs university but not sure. Really burning sensation on my chest.",
-        "Doctor:In brief:   Consider asthma    Have you ever had asthma or wheezing? That can cause tightness & shortness of breath, as can certain heart problems.   Without fever & cough, COVID 19 is less likely, but probably best to call your Dr’s office for recommendation.  If the breathing worsens you should be seen ASSP by video visit or perhaps in person to listen to lungs & assess need for possible chest X-ray, EKG, & medication  Would you like to video or text chat with me?"
+        "Doctor:Consider asthma    Have you ever had asthma or wheezing? That can cause tightness & shortness of breath, as can certain heart problems.   Without fever & cough, COVID 19 is less likely, but probably best to call your Dr’s office for recommendation.  If the breathing worsens you should be seen ASSP by video visit or perhaps in person to listen to lungs & assess need for possible chest X-ray, EKG, & medication  Would you like to video or text chat with me?"
     ],
     [
         "Patient:Can vaccines for coronavirus in domestic pets be modified for humans as a way to have a vaccine for covid-19?Can vaccines for coronavirus in domestic pets be modified for humans as a way to have a vaccine for covid-19?",
-        "Doctor:In brief:   No    I really don't think so but its a very different virus as is the old corona we know - 5 varieties of the common cold are from coronaviruses  Would you like to video or text chat with me?"
+        "Doctor:No    I really don't think so but its a very different virus as is the old corona we know - 5 varieties of the common cold are from coronaviruses  Would you like to video or text chat with me?"
     ],
     [
         "Patient:I know hospitals filter air with HEPA filters. Will the filters in my car or office building work just as well to prevent corona?I know hospitals filter air with HEPA filters. Will the filters in my car or office building work just as well to prevent corona?",
-        "Doctor:In brief:   No worries   COVID-19 does not survive outdoors.   Medical officials actually encourages getting outdoors, but keeping your distance from others.   Would you like to video or text chat with me?"
+        "Doctor:No worries   COVID-19 does not survive outdoors.   Medical officials actually encourages getting outdoors, but keeping your distance from others.   Would you like to video or text chat with me?"
     ],
     [
         "Patient:Will taking ibuprofen (Advil) increase the strength of the COVID-19 virus?Will taking ibuprofen (Advil) increase the strength of the COVID-19 virus?",
@@ -1755,23 +1755,23 @@
     ],
     [
         "Patient:I have diarrhea and I read that it could be a precursor to having COVID-19. I was in China end of September 2020. So more than 6 weeks back. ?I have diarrhea and I read that it could be a precursor to having COVID-19. I was in China end of September 2020. So more than 6 weeks back. ?",
-        "Doctor:In brief:   IF    that is all you have by now you don't have the chinese virus.  Would you like to video or text chat with me?"
+        "Doctor:IF    that is all you have by now you don't have the chinese virus.  Would you like to video or text chat with me?"
     ],
     [
         "Patient:Where can I get tested for Corona if I am in the rondebosch area?Where can I get tested for Corona if I am in the rondebosch area?",
-        "Doctor:In brief:   Consult with your GP   You cannot just request a COVID19 test, without fulfilling certain official SA testing criteria, even if you are a private patient and are willing to pay cash.  If you meet the strict testing criteria,then your GP will need to complete a request form  and tell you where to go.  Would you like to video or text chat with me?"
+        "Doctor:Consult with your GP   You cannot just request a COVID19 test, without fulfilling certain official SA testing criteria, even if you are a private patient and are willing to pay cash.  If you meet the strict testing criteria,then your GP will need to complete a request form  and tell you where to go.  Would you like to video or text chat with me?"
     ],
     [
         "Patient:I’m a mother, so if one of my kids get coronavirus, I get it too and spread it to my entire family since they depend on me for everything. What can I really do? It’s inevitable.I’m a mother, so if one of my kids get coronavirus, I get it too and spread it to my entire family since they depend on me for everything. What can I really do? It’s inevitable.",
-        "Doctor:In brief:   COVID prevention   It's not inevitable.   Follow the guidelines all over the media and make sure your kids do too:  social distancing, wash hands frquently, stay home except for absolutely necessary trips, wash hands frequently, use antiseptic wipes when you have to touch surfaces outside the home (e.g. shopping cart handles), and avoid touching your face. At your and your kids' age, most infections aren't serious.  Would you like to video or text chat with me?"
+        "Doctor:COVID prevention   It's not inevitable.   Follow the guidelines all over the media and make sure your kids do too:  social distancing, wash hands frquently, stay home except for absolutely necessary trips, wash hands frequently, use antiseptic wipes when you have to touch surfaces outside the home (e.g. shopping cart handles), and avoid touching your face. At your and your kids' age, most infections aren't serious.  Would you like to video or text chat with me?"
     ],
     [
         "Patient:Hi  My symptoms are aching and sore joints I feel feverish but I don’t have a cough or runny nose . I do feel a little throat congestion ( phlegm ) but no sore throat. Not very sick. I have been taking viral choice and vitamin c for a month . ?Hi  My symptoms are aching and sore joints I feel feverish but I don’t have a cough or runny nose . I do feel a little throat congestion ( phlegm ) but no sore throat. Not very sick. I have been taking viral choice and vitamin c for a month . ?",
-        "Doctor:In brief:   URI   Your symptoms are consistent with a flu like upper respiratory tract infection.   Treatment would be resting, drinking adequate fluids and taking acetaminophen. Chest discomfort or shortness of breath would be concerning and if you've been exposed to anyone with covid19, who has been in an affected region or if you live in a region where covid19 is present, notify your MD and get tested.  Would you like to video or text chat with me?"
+        "Doctor:URI   Your symptoms are consistent with a flu like upper respiratory tract infection.   Treatment would be resting, drinking adequate fluids and taking acetaminophen. Chest discomfort or shortness of breath would be concerning and if you've been exposed to anyone with covid19, who has been in an affected region or if you live in a region where covid19 is present, notify your MD and get tested.  Would you like to video or text chat with me?"
     ],
     [
         "Patient:Hpv virus has affected my sex life. I bleed a lot during sex and on my period. I did a cervical cauterisation but my period is still the same and I’m scared to have sex due to bleeding as I was once hospitalised for it. Any tips on what I can do?Hpv virus has affected my sex life. I bleed a lot during sex and on my period. I did a cervical cauterisation but my period is still the same and I’m scared to have sex due to bleeding as I was once hospitalised for it. Any tips on what I can do?",
-        "Doctor:In brief:   Cervix trauma   One technique is to have your partner only penetrate your vagina half way to avoid trauma to the cervix.   You and your partner can still have enough stimulation and pleasure this way.  Would you like to video or text chat with me?"
+        "Doctor:Cervix trauma   One technique is to have your partner only penetrate your vagina half way to avoid trauma to the cervix.   You and your partner can still have enough stimulation and pleasure this way.  Would you like to video or text chat with me?"
     ],
     [
         "Patient:Is it safe to eat food prepared by someone with coronavirus? Even if they wear a mask and gloves?Is it safe to eat food prepared by someone with coronavirus? Even if they wear a mask and gloves?",
@@ -1783,27 +1783,27 @@
     ],
     [
         "Patient:I know hand washing (20+ seconds) is best to kill coronavirus, and that if not available use sanitizer of 60%+ alcohol. I thought my sanitizer was but realized it's only 57.6%. Been using lots for weeks. I've stopped using it. Should I be worried?I know hand washing (20+ seconds) is best to kill coronavirus, and that if not available use sanitizer of 60%+ alcohol. I thought my sanitizer was but realized it's only 57.6%. Been using lots for weeks. I've stopped using it. Should I be worried?",
-        "Doctor:In brief:   Life is not exact   In pandemic times, supplies are short.   Life is not that exact. That means 57.6% is fine, and if a person catches the coronavirus, it won't be because she was missing 2% on her hand sanitizer. Remember that the virus goes from person to person. If there are no people close by, and if the high-touch surfaces like table tops, keyboards, or doorknobs are clean, then one is a lot safer. (Mar. 2020)  Would you like to video or text chat with me?"
+        "Doctor:Life is not exact   In pandemic times, supplies are short.   Life is not that exact. That means 57.6% is fine, and if a person catches the coronavirus, it won't be because she was missing 2% on her hand sanitizer. Remember that the virus goes from person to person. If there are no people close by, and if the high-touch surfaces like table tops, keyboards, or doorknobs are clean, then one is a lot safer. (Mar. 2020)  Would you like to video or text chat with me?"
     ],
     [
         "Patient:Fake news running around?  Does Advil/Ibuprofen kickstart the COVID-19 into pneumonia?Fake news running around?  Does Advil/Ibuprofen kickstart the COVID-19 into pneumonia?",
-        "Doctor:In brief:   It could    There is not enough scientific info to confirm it.    Most of the online new was based on French report.It could be combination of speculations because virus enters lung through ACE2 receptor and also ibuprofens NASiD  and virus can effects the kidney. https://www.npr.org/sections/health-shots/2020/03/18/818026613/advice-from-france-to-avoid-ibuprofen-for-covid-19-leaves-experts-baffledThx  Would you like to video or text chat with me?"
+        "Doctor:It could    There is not enough scientific info to confirm it.    Most of the online new was based on French report.It could be combination of speculations because virus enters lung through ACE2 receptor and also ibuprofens NASiD  and virus can effects the kidney. https://www.npr.org/sections/health-shots/2020/03/18/818026613/advice-from-france-to-avoid-ibuprofen-for-covid-19-leaves-experts-baffledThx  Would you like to video or text chat with me?"
     ],
     [
         "Patient:And i travelled to the UK (back in RSA on the 1st or March but the symptoms only appeared thursday 19 march with mild ear ache to severe in the evening. Followed by soar throat, cougth and body ache on friday, fever and weekness on saturday?And i travelled to the UK (back in RSA on the 1st or March but the symptoms only appeared thursday 19 march with mild ear ache to severe in the evening. Followed by soar throat, cougth and body ache on friday, fever and weekness on saturday?",
-        "Doctor:In brief:   Infection   Influenza versus Coronavirus.    Typically more sudden onset of fever and myalgias with influenza, but sometimes hard to tell. If no significant SOB probably need to quarantine. Call your local physician or health department. I know Healthtap has been helping to order or recommend test, but typically test not available. If Coronavirus most cases have been mild and expect about 10 days of symptoms.  Would you like to video or text chat with me?"
+        "Doctor:Infection   Influenza versus Coronavirus.    Typically more sudden onset of fever and myalgias with influenza, but sometimes hard to tell. If no significant SOB probably need to quarantine. Call your local physician or health department. I know Healthtap has been helping to order or recommend test, but typically test not available. If Coronavirus most cases have been mild and expect about 10 days of symptoms.  Would you like to video or text chat with me?"
     ],
     [
         "Patient:does a virus cause lesions dry and oily nose。does a virus cause lesions dry and oily nose。",
-        "Doctor:In brief:   Usually not   more likely to cause runny nose increase moist discharge  Would you like to video or text chat with me?"
+        "Doctor:Usually not   more likely to cause runny nose increase moist discharge  Would you like to video or text chat with me?"
     ],
     [
         "Patient:Hello, I need to go to my Dr. to get my prescription refilled. Due to the corona virus I really don't want to get out and sit in a busy office just for a prescription refill.   Perscription refill?Hello, I need to go to my Dr. to get my prescription refilled. Due to the corona virus I really don't want to get out and sit in a busy office just for a prescription refill.   Perscription refill?",
-        "Doctor:In brief:   May do video consult   COVID-19 pandemic at this time, so one's doctor may want to consult by video instead of requiring an in-person visit.   Some medications are refillable by video, others are not. In this pandemic, one's primary care doctor, who knows the patient well, can usually get meds to the patient without an in-person visit... unless an exam is needed in order to adjust the meds. Just ask the doctor.  Would you like to video or text chat with me?"
+        "Doctor:May do video consult   COVID-19 pandemic at this time, so one's doctor may want to consult by video instead of requiring an in-person visit.   Some medications are refillable by video, others are not. In this pandemic, one's primary care doctor, who knows the patient well, can usually get meds to the patient without an in-person visit... unless an exam is needed in order to adjust the meds. Just ask the doctor.  Would you like to video or text chat with me?"
     ],
     [
         "Patient:Traveled 2wks ago from Fl. To PA. 68 wf. Has had fever of 100 , chills at night and some coughing for 5ds. Tested negative for flu and x rays of lungs were clear . Coronavirus? Scarce。Traveled 2wks ago from Fl. To PA. 68 wf. Has had fever of 100 , chills at night and some coughing for 5ds. Tested negative for flu and x rays of lungs were clear . Coronavirus? Scarce。",
-        "Doctor:In brief:   Cough and cold   Hello and welcome to HealthTap,It is a good idea to get tested.   You can visit your nearest Urgent care. Make sure to call them before coming, after getting tested self quarantine for total 2 weeks from the onset of symptoms. Please wear mask and perform frequent hand washing. Avoid Ibuprofen/other NSAIDs, use acetaminophen/ Tylenol only. Look for signs of worsening cough & breathing difficulties.  Would you like to video or text chat with me?"
+        "Doctor:Cough and cold   Hello and welcome to HealthTap,It is a good idea to get tested.   You can visit your nearest Urgent care. Make sure to call them before coming, after getting tested self quarantine for total 2 weeks from the onset of symptoms. Please wear mask and perform frequent hand washing. Avoid Ibuprofen/other NSAIDs, use acetaminophen/ Tylenol only. Look for signs of worsening cough & breathing difficulties.  Would you like to video or text chat with me?"
     ],
     [
         "Patient:I have tested positive for Covid 19 what medication must I take?I have tested positive for Covid 19 what medication must I take?",
@@ -1815,15 +1815,15 @@
     ],
     [
         "Patient:Can a person with type 1 diabetes ever just get mild symptoms of coronavirus, or will it always be fatal?Can a person with type 1 diabetes ever just get mild symptoms of coronavirus, or will it always be fatal?",
-        "Doctor:In brief:   Death   At 38 your risk of death from the virus is low.    If you diabetes is controlled you should not have particularly higher risk. Poorly controlled diabetes would make a difference.   Would you like to video or text chat with me?"
+        "Doctor:Death   At 38 your risk of death from the virus is low.    If you diabetes is controlled you should not have particularly higher risk. Poorly controlled diabetes would make a difference.   Would you like to video or text chat with me?"
     ],
     [
         "Patient:Girlfriend has coronavirus. With bad symptoms. It’s 7 days since she started symptoms, and last time I saw her. I still don’t feel symptoms. How much longer am I in the zone of possibly starting symptoms from close exposure?Girlfriend has coronavirus. With bad symptoms. It’s 7 days since she started symptoms, and last time I saw her. I still don’t feel symptoms. How much longer am I in the zone of possibly starting symptoms from close exposure?",
-        "Doctor:In brief:   Quarantine   You should be in self quarantine as it might take another week for you to develop symptoms.   As soon as spiking fever, having a sore throat or cough- test. Do not travel, nor visit medical facilities.  Would you like to video or text chat with me?"
+        "Doctor:Quarantine   You should be in self quarantine as it might take another week for you to develop symptoms.   As soon as spiking fever, having a sore throat or cough- test. Do not travel, nor visit medical facilities.  Would you like to video or text chat with me?"
     ],
     [
         "Patient:Scratching sore thoat and  slight chest irritation. With body aches and tired with slight fever?Scratching sore thoat and  slight chest irritation. With body aches and tired with slight fever?",
-        "Doctor:In brief:   Fever with body ache   Hello & welcome to HealthTap,It could be anything from common cold to COVID-19.   Please go to Prompt care. Call them before going.  When tested for COVID-19, self quarantine for total 2 weeks from the onset of symptoms. Please wear mask and perform frequent hand washing. Avoid Ibuprofen/other NSAIDs, use acetaminophen/ Tylenol only. If signs of worsening cough & breathing present then go to ED.  Would you like to video or text chat with me?"
+        "Doctor:Fever with body ache   Hello & welcome to HealthTap,It could be anything from common cold to COVID-19.   Please go to Prompt care. Call them before going.  When tested for COVID-19, self quarantine for total 2 weeks from the onset of symptoms. Please wear mask and perform frequent hand washing. Avoid Ibuprofen/other NSAIDs, use acetaminophen/ Tylenol only. If signs of worsening cough & breathing present then go to ED.  Would you like to video or text chat with me?"
     ],
     [
         "Patient:Associated with phlegm and mucus?Associated with phlegm and mucus?",
@@ -1835,7 +1835,7 @@
     ],
     [
         "Patient:Should I be tested for COVID 19 have been in contact with family member who arrived from France on 13 March.not showing any symptoms to date been 7days since visit ?Should I be tested for COVID 19 have been in contact with family member who arrived from France on 13 March.not showing any symptoms to date been 7days since visit ?",
-        "Doctor:In brief:   Self quarantine    Suggest self quarantine for 14 days.  If symptomatic then contact your Primary care physician telephonically, or alternatively use this platform to get tested and further management. Godspeed.  Would you like to video or text chat with me?"
+        "Doctor:Self quarantine    Suggest self quarantine for 14 days.  If symptomatic then contact your Primary care physician telephonically, or alternatively use this platform to get tested and further management. Godspeed.  Would you like to video or text chat with me?"
     ],
     [
         "Patient:I have a constant cough and my chest has now become tight. I also have a tickle in my throat. I would like to be tested for Coronavirus please.I have a constant cough and my chest has now become tight. I also have a tickle in my throat. I would like to be tested for Coronavirus please.",
@@ -1847,6 +1847,6 @@
     ],
     [
         "Patient:I am concerned that I’m showing symptoms of corona. I have a tight chest, regular headaches, fever, and infrequent coughing and sneezing. My throat is also sore. I’ve also been in the vicinity of someone who has tested positively for the virus.  ?I am concerned that I’m showing symptoms of corona. I have a tight chest, regular headaches, fever, and infrequent coughing and sneezing. My throat is also sore. I’ve also been in the vicinity of someone who has tested positively for the virus.  ?",
-        "Doctor:In brief:   Test   Please stay at home, rest, drink fluids and monitor your temperature.   Arrange for testing locally.You may need respiratory treatments, and additional testing for influenza and Strep A. Please contact your PCP for additional or worsening symptoms.   Would you like to video or text chat with me?"
+        "Doctor:Test   Please stay at home, rest, drink fluids and monitor your temperature.   Arrange for testing locally.You may need respiratory treatments, and additional testing for influenza and Strep A. Please contact your PCP for additional or worsening symptoms.   Would you like to video or text chat with me?"
     ]
 ]
