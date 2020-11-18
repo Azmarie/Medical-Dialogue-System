@@ -30,7 +30,15 @@ tqdm
 numpy
 scipy==1.2.1
 
+Set up the virtual environment:
 
+```
+python3 -m venv venv
+source venv/bin/activate
+pip3 install -r requirements.txt
+```
+
+after setup, you can just run `source venv/bin/activate` to activate the `venv` later on.
 
 #### Acknowledge
 

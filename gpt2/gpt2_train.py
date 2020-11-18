@@ -173,9 +173,9 @@ def preprocess_raw_data(args, tokenizer, n_ctx):
             if dialogue_index < len(train_data) - 1:
                 f.write("\n")
     logger.info("finish preprocessing raw data,the result is stored in {}".format(args.train_tokenized_path))
-    
+
 # Start Valid Set
-    
+
     logger.info("tokenizing raw data,raw data path:{}, token output path:{}".format(args.valid_raw_path,
                                                                                     args.valid_tokenized_path))
     with open(args.valid_raw_path, 'rb') as f:
@@ -203,7 +203,7 @@ def preprocess_raw_data(args, tokenizer, n_ctx):
             if dialogue_index < len(valid_data) - 1:
                 f.write("\n")
     logger.info("finish preprocessing raw data,the result is stored in {}".format(args.valid_tokenized_path))
-    
+
 # Start Test Set
 
     logger.info("tokenizing raw data,raw data path:{}, token output path:{}".format(args.test_raw_path, args.test_tokenized_path))
@@ -269,10 +269,10 @@ def preprocess_mmi_raw_data(args, tokenizer, n_ctx):
             if dialogue_index < len(train_data) - 1:
                 f.write("\n")
     logger.info("finish preprocessing raw data,the result is stored in {}".format(args.train_tokenized_path))
-    
-    
+
+
 #Start Valid Set
-    
+
     logger.info("tokenizing MMI raw data,raw data path:{}, token output path:{}".format(args.valid_raw_path,
                                                                                         args.valid_mmi_tokenized_path))
     with open(args.valid_raw_path, 'rb') as f:
@@ -412,16 +412,16 @@ def evaluate(model, device, test_list, multi_gpu, args):
             if args.gradient_accumulation > 1:
                 loss = loss / args.gradient_accumulation
                 accuracy = accuracy / args.gradient_accumulation
-                
+
             perplexity = math.exp(loss)
             total_num += 1.0
             ave_acc += accuracy
             ave_loss += loss
             ave_ppl += perplexity
-            
+
 #            logger.info("evaluate batch {} ,loss {} ,perplexity {} ,accuracy {}".format(batch_idx, loss, perplexity, accuracy))
 #            tb_writer.add_scalar('loss', loss.item(), overall_step)
-        
+
         logger.info("evaluate overall: loss {} ,perplexity {} ,accuracy {}".format(ave_loss / total_num, ave_ppl / total_num, ave_acc / total_num))
         logger.info("finishing evaluating")
 
@@ -511,14 +511,14 @@ def train(model, device, train_list, multi_gpu, args, valid_list, test_list):
         epoch_finish_time = datetime.now()
 #        logger.info('time for one epoch: {}'.format(epoch_finish_time - epoch_start_time))
         logger.info("Total training loss: {}".format(losses / batch_idx))
-        
+
         logger.info ("Start Valid Set")
         evaluate(model, device, valid_list, multi_gpu, args)
         logger.info ("Start Test Set")
         evaluate(model, device, test_list, multi_gpu, args)
-        
+
     logger.info('training finished')
-    
+
 
 
 
@@ -531,7 +531,7 @@ def main():
     # 当用户使用GPU,并且GPU可用时
     args.cuda = torch.cuda.is_available() and not args.no_cuda
 #    device = 'cuda' if args.cuda else 'cpu'
-    device = torch.device("cuda:5")
+    device = torch.device("cuda:0")
     logger.info('using device:{}'.format(device))
     # 为CPU设置种子用于生成随机数，以使得结果是确定的
     # 为当前GPU设置随机种子；如果使用多个GPU，应该使用torch.cuda.manual_seed_all()为所有的GPU设置种子。
@@ -586,7 +586,7 @@ def main():
         with open(args.train_tokenized_path, "r", encoding="utf8") as f:
             train_data = f.read()
     train_list = train_data.split("\n")
-    
+
     logger.info("loading valid data")
     if args.train_mmi:  # 如果是训练MMI模型
         with open(args.valid_mmi_tokenized_path, "r", encoding="utf8") as f:
@@ -595,7 +595,7 @@ def main():
         with open(args.valid_tokenized_path, "r", encoding="utf8") as f:
             valid_data = f.read()
     valid_list = valid_data.split("\n")
-    
+
     logger.info("loading test data")
     if args.train_mmi:  # 如果是训练MMI模型
         with open(args.test_mmi_tokenized_path, "r", encoding="utf8") as f:
@@ -604,7 +604,7 @@ def main():
         with open(args.test_tokenized_path, "r", encoding="utf8") as f:
             test_data = f.read()
     test_list = test_data.split("\n")
-    
+
     # 开始训练
     train(model, device, train_list, multi_gpu, args, valid_list, test_list)
     # 测试模型
